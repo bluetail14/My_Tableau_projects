@@ -1,0 +1,2884 @@
+FeatureCode,DateCode,Measurement,Units,Value,Residential Status
+S12000021,2016,Count,Children,157,Other Community Placement
+S12000021,2015,Count,Children,176,Other Community Placement
+S12000041,2017,Count,Children,255,All
+S12000021,2010,Count,Children,119,Foster / Prospective Adopters
+S12000021,2017,Count,Children,77,Residential Care
+S12000041,2012,Count,Children,15,Residential Care
+S12000021,2015,Count,Children,230,At Home
+S12000021,2012,Count,Children,61,Residential Care
+S12000021,2018,Count,Children,167,Foster / Prospective Adopters
+S12000021,2014,Count,Children,218,At Home
+S12000021,2014,Count,Children,601,All
+S12000041,2010,Count,Children,274,All
+S12000021,2017,Count,Children,140,Other Community Placement
+S12000041,2017,Count,Children,20,Residential Care
+S12000021,2011,Count,Children,583,All
+S12000021,2017,Count,Children,585,All
+S12000021,2013,Count,Children,587,All
+S12000021,2015,Count,Children,639,All
+S12000021,2009,Count,Children,102,Foster / Prospective Adopters
+S12000021,2018,Count,Children,183,At Home
+S12000021,2012,Count,Children,194,Other Community Placement
+S12000021,2017,Count,Children,185,At Home
+S12000021,2016,Count,Children,603,All
+S12000021,2010,Count,Children,529,All
+S12000041,2009,Count,Children,16,Residential Care
+S12000041,2010,Count,Children,16,Residential Care
+S12000021,2009,Count,Children,501,All
+S12000021,2012,Count,Children,582,All
+S12000041,2016,Count,Children,21,Residential Care
+S12000021,2015,Count,Children,180,Foster / Prospective Adopters
+S12000021,2009,Count,Children,60,Residential Care
+S12000041,2014,Count,Children,272,All
+S12000021,2009,Count,Children,121,Other Community Placement
+S12000021,2013,Count,Children,216,At Home
+S12000021,2018,Count,Children,563,All
+S12000021,2013,Count,Children,170,Other Community Placement
+S12000041,2012,Count,Children,40,Other Community Placement
+S12000021,2018,Count,Children,64,Residential Care
+S12000021,2012,Count,Children,210,At Home
+S12000021,2011,Count,Children,129,Foster / Prospective Adopters
+S12000021,2010,Count,Children,165,Other Community Placement
+S12000041,2012,Count,Children,76,At Home
+S12000021,2016,Count,Children,175,Foster / Prospective Adopters
+S12000021,2013,Count,Children,65,Residential Care
+S12000041,2010,Count,Children,53,At Home
+S12000021,2011,Count,Children,57,Residential Care
+S12000041,2015,Count,Children,92,At Home
+S12000021,2016,Count,Children,212,At Home
+S12000021,2012,Count,Children,117,Foster / Prospective Adopters
+S12000041,2009,Count,Children,261,All
+S12000021,2010,Count,Children,63,Residential Care
+S12000041,2013,Count,Children,69,At Home
+S12000041,2011,Count,Children,250,All
+S12000021,2013,Count,Children,136,Foster / Prospective Adopters
+S12000021,2010,Count,Children,182,At Home
+S12000021,2017,Count,Children,183,Foster / Prospective Adopters
+S12000021,2009,Count,Children,218,At Home
+S12000042,2011,Count,Children,213,Other Community Placement
+S12000042,2009,Count,Children,587,All
+S12000042,2010,Count,Children,637,All
+S12000042,2015,Count,Children,137,Other Community Placement
+S12000042,2018,Count,Children,105,At Home
+S12000020,2009,Count,Children,208,All
+S12000020,2014,Count,Children,213,All
+S12000020,2017,Count,Children,38,At Home
+S12000020,2016,Count,Children,42,At Home
+S12000020,2016,Count,Children,104,Foster / Prospective Adopters
+S12000020,2018,Count,Children,89,Foster / Prospective Adopters
+S12000020,2012,Count,Children,219,All
+S12000020,2011,Count,Children,64,At Home
+S12000020,2012,Count,Children,55,At Home
+S12000020,2018,Count,Children,48,Residential Care
+S12000042,2017,Count,Children,109,At Home
+S12000020,2012,Count,Children,33,Residential Care
+S12000020,2015,Count,Children,29,Residential Care
+S12000042,2016,Count,Children,57,Residential Care
+S12000020,2017,Count,Children,38,Residential Care
+S12000020,2018,Count,Children,222,All
+S12000020,2014,Count,Children,46,At Home
+S12000020,2009,Count,Children,55,At Home
+S12000020,2017,Count,Children,215,All
+S12000020,2015,Count,Children,95,Foster / Prospective Adopters
+S12000020,2010,Count,Children,60,At Home
+S12000020,2016,Count,Children,213,All
+S12000020,2010,Count,Children,192,All
+S12000041,2014,Count,Children,16,Residential Care
+S12000020,2018,Count,Children,47,At Home
+S12000021,2014,Count,Children,161,Foster / Prospective Adopters
+S12000021,2016,Count,Children,59,Residential Care
+S12000020,2012,Count,Children,91,Foster / Prospective Adopters
+S12000041,2015,Count,Children,14,Residential Care
+S12000020,2014,Count,Children,99,Foster / Prospective Adopters
+S12000021,2014,Count,Children,171,Other Community Placement
+S12000041,2016,Count,Children,238,All
+S12000041,2013,Count,Children,17,Residential Care
+S12000021,2014,Count,Children,51,Residential Care
+S12000021,2018,Count,Children,149,Other Community Placement
+S12000041,2011,Count,Children,16,Residential Care
+S12000041,2018,Count,Children,21,Residential Care
+S12000042,2015,Count,Children,136,At Home
+S12000020,2011,Count,Children,82,Foster / Prospective Adopters
+S12000020,2013,Count,Children,66,At Home
+S12000020,2013,Count,Children,40,Other Community Placement
+S12000020,2011,Count,Children,207,All
+S12000020,2015,Count,Children,48,At Home
+S12000042,2011,Count,Children,44,Residential Care
+S12000041,2014,Count,Children,35,Other Community Placement
+S12000020,2009,Count,Children,69,Foster / Prospective Adopters
+S12000020,2017,Count,Children,96,Foster / Prospective Adopters
+S12000020,2013,Count,Children,221,All
+S12000020,2010,Count,Children,68,Foster / Prospective Adopters
+S12000020,2013,Count,Children,82,Foster / Prospective Adopters
+S12000042,2015,Count,Children,585,All
+S12000041,2018,Count,Children,63,Other Community Placement
+S12000026,2012,Count,Children,194,All
+S12000026,2011,Count,Children,108,Foster / Prospective Adopters
+S12000026,2015,Count,Children,51,Other Community Placement
+S12000041,2016,Count,Children,36,Other Community Placement
+S12000041,2011,Count,Children,48,Other Community Placement
+S12000026,2011,Count,Children,40,Other Community Placement
+S12000026,2009,Count,Children,25,Other Community Placement
+S12000026,2010,Count,Children,216,All
+S12000026,2018,Count,Children,26,Residential Care
+S12000038,2015,Count,Children,234,Foster / Prospective Adopters
+S12000026,2013,Count,Children,21,Residential Care
+S12000026,2011,Count,Children,208,All
+S12000026,2010,Count,Children,39,Other Community Placement
+S12000023,2012,Count,Children,6,Residential Care
+S12000023,2018,Count,Children,12,At Home
+S12000023,2011,Count,Children,18,All
+S12000023,2009,Count,Children,31,All
+S12000041,2018,Count,Children,251,All
+S12000023,2014,Count,Children,39,All
+S12000023,2018,Count,Children,8,Foster / Prospective Adopters
+S12000026,2015,Count,Children,34,Residential Care
+S12000026,2018,Count,Children,48,Other Community Placement
+S12000026,2011,Count,Children,44,At Home
+S12000026,2010,Count,Children,94,Foster / Prospective Adopters
+S12000041,2015,Count,Children,37,Other Community Placement
+S12000023,2015,Count,Children,34,All
+S12000023,2010,Count,Children,36,All
+S12000026,2009,Count,Children,89,Foster / Prospective Adopters
+S12000026,2014,Count,Children,16,At Home
+S12000026,2017,Count,Children,97,Foster / Prospective Adopters
+S12000026,2016,Count,Children,103,Foster / Prospective Adopters
+S12000026,2011,Count,Children,16,Residential Care
+S12000038,2013,Count,Children,247,At Home
+S12000026,2010,Count,Children,62,At Home
+S12000026,2018,Count,Children,74,Foster / Prospective Adopters
+S12000026,2013,Count,Children,33,Other Community Placement
+S12000026,2017,Count,Children,228,All
+S12000026,2016,Count,Children,27,At Home
+S12000038,2009,Count,Children,718,All
+S12000026,2012,Count,Children,104,Foster / Prospective Adopters
+S12000026,2014,Count,Children,179,All
+S12000026,2015,Count,Children,92,Foster / Prospective Adopters
+S12000038,2014,Count,Children,60,Residential Care
+S12000026,2009,Count,Children,61,At Home
+S12000038,2014,Count,Children,231,At Home
+S12000026,2018,Count,Children,205,All
+S12000026,2012,Count,Children,34,At Home
+S12000026,2018,Count,Children,57,At Home
+S12000038,2017,Count,Children,179,Other Community Placement
+S12000026,2009,Count,Children,193,All
+S12000026,2013,Count,Children,37,At Home
+S12000038,2009,Count,Children,143,Other Community Placement
+S12000038,2013,Count,Children,779,All
+S12000038,2010,Count,Children,790,All
+S12000026,2013,Count,Children,93,Foster / Prospective Adopters
+S12000023,2009,Count,Children,20,At Home
+S12000023,2014,Count,Children,7,Other Community Placement
+S12000023,2015,Count,Children,9,Foster / Prospective Adopters
+S12000041,2018,Count,Children,102,Foster / Prospective Adopters
+S12000023,2013,Count,Children,9,At Home
+S12000023,2014,Count,Children,9,Foster / Prospective Adopters
+S12000023,2014,Count,Children,13,Residential Care
+S12000041,2012,Count,Children,258,All
+S12000041,2009,Count,Children,136,Foster / Prospective Adopters
+S12000041,2011,Count,Children,134,Foster / Prospective Adopters
+S12000023,2015,Count,Children,8,At Home
+S12000041,2013,Count,Children,135,Foster / Prospective Adopters
+S12000023,2013,Count,Children,8,Residential Care
+S12000041,2014,Count,Children,129,Foster / Prospective Adopters
+S12000023,2015,Count,Children,13,Residential Care
+S12000021,2011,Count,Children,208,At Home
+S12000023,2010,Count,Children,15,At Home
+S12000041,2009,Count,Children,71,At Home
+S12000021,2015,Count,Children,53,Residential Care
+S12000041,2013,Count,Children,32,Other Community Placement
+S12000021,2011,Count,Children,189,Other Community Placement
+S12000023,2012,Count,Children,9,At Home
+S12000041,2010,Count,Children,149,Foster / Prospective Adopters
+S12000041,2013,Count,Children,253,All
+S12000023,2010,Count,Children,5,Residential Care
+S12000041,2017,Count,Children,65,At Home
+S12000041,2011,Count,Children,52,At Home
+S12000041,2016,Count,Children,73,At Home
+S12000023,2016,Count,Children,8,Residential Care
+S12000023,2016,Count,Children,28,All
+S12000023,2012,Count,Children,5,Foster / Prospective Adopters
+S12000041,2017,Count,Children,64,Other Community Placement
+S12000023,2017,Count,Children,8,Residential Care
+S12000041,2015,Count,Children,261,All
+S12000041,2010,Count,Children,56,Other Community Placement
+S12000023,2017,Count,Children,12,Foster / Prospective Adopters
+S12000041,2009,Count,Children,38,Other Community Placement
+S12000023,2012,Count,Children,26,All
+S12000023,2011,Count,Children,9,Foster / Prospective Adopters
+S12000023,2016,Count,Children,14,Foster / Prospective Adopters
+S12000023,2013,Count,Children,7,Foster / Prospective Adopters
+S12000023,2018,Count,Children,6,Residential Care
+S12000041,2016,Count,Children,108,Foster / Prospective Adopters
+S12000041,2018,Count,Children,65,At Home
+S12000023,2018,Count,Children,31,All
+S12000023,2010,Count,Children,14,Foster / Prospective Adopters
+S12000041,2014,Count,Children,92,At Home
+S12000023,2018,Count,Children,5,Other Community Placement
+S12000023,2014,Count,Children,10,At Home
+S12000023,2017,Count,Children,14,At Home
+S12000041,2017,Count,Children,106,Foster / Prospective Adopters
+S12000023,2013,Count,Children,27,All
+S12000023,2017,Count,Children,38,All
+S12000023,2012,Count,Children,6,Other Community Placement
+S12000041,2015,Count,Children,118,Foster / Prospective Adopters
+S12000041,2012,Count,Children,127,Foster / Prospective Adopters
+S12000018,2017,Count,Children,45,Foster / Prospective Adopters
+S12000018,2012,Count,Children,63,Other Community Placement
+S12000045,2010,Count,Children,31,Other Community Placement
+S12000018,2016,Count,Children,44,Foster / Prospective Adopters
+S12000018,2012,Count,Children,29,Residential Care
+S12000018,2014,Count,Children,30,Residential Care
+S12000018,2017,Count,Children,218,All
+S12000018,2011,Count,Children,31,Residential Care
+S12000018,2011,Count,Children,65,Foster / Prospective Adopters
+S12000018,2011,Count,Children,285,All
+S12000045,2017,Count,Children,25,Residential Care
+S12000018,2011,Count,Children,55,Other Community Placement
+S12000018,2012,Count,Children,52,Foster / Prospective Adopters
+S12000018,2015,Count,Children,53,Foster / Prospective Adopters
+S12000018,2010,Count,Children,148,At Home
+S12000045,2016,Count,Children,45,At Home
+S12000018,2012,Count,Children,299,All
+S12000045,2012,Count,Children,50,Other Community Placement
+S12000018,2015,Count,Children,209,All
+S12000045,2010,Count,Children,45,At Home
+S12000045,2009,Count,Children,45,At Home
+S12000045,2009,Count,Children,30,Other Community Placement
+S12000045,2014,Count,Children,154,All
+S12000018,2018,Count,Children,27,Residential Care
+S12000045,2012,Count,Children,58,At Home
+S12000018,2013,Count,Children,60,Foster / Prospective Adopters
+S12000018,2018,Count,Children,199,All
+S12000018,2009,Count,Children,167,At Home
+S12000018,2011,Count,Children,134,At Home
+S12000018,2014,Count,Children,99,At Home
+S12000018,2016,Count,Children,79,At Home
+S12000018,2014,Count,Children,52,Other Community Placement
+S12000018,2014,Count,Children,56,Foster / Prospective Adopters
+S12000042,2017,Count,Children,555,All
+S12000042,2009,Count,Children,189,Other Community Placement
+S12000018,2010,Count,Children,53,Foster / Prospective Adopters
+S12000042,2017,Count,Children,126,Other Community Placement
+S12000018,2014,Count,Children,237,All
+S12000018,2015,Count,Children,27,Residential Care
+S12000018,2013,Count,Children,130,At Home
+S12000018,2013,Count,Children,276,All
+S12000018,2010,Count,Children,37,Residential Care
+S12000018,2016,Count,Children,53,Other Community Placement
+S12000018,2009,Count,Children,32,Residential Care
+S12000045,2011,Count,Children,25,Residential Care
+S12000018,2012,Count,Children,155,At Home
+S12000018,2013,Count,Children,27,Residential Care
+S12000018,2016,Count,Children,207,All
+S12000018,2018,Count,Children,40,Foster / Prospective Adopters
+S12000018,2009,Count,Children,54,Other Community Placement
+S12000018,2010,Count,Children,55,Other Community Placement
+S12000018,2017,Count,Children,86,At Home
+S12000018,2018,Count,Children,46,Other Community Placement
+S12000045,2016,Count,Children,23,Residential Care
+S12000018,2013,Count,Children,59,Other Community Placement
+S12000045,2016,Count,Children,40,Foster / Prospective Adopters
+S12000045,2011,Count,Children,145,All
+S12000017,2014,Count,Children,74,Other Community Placement
+S12000045,2018,Count,Children,43,Other Community Placement
+S12000017,2011,Count,Children,175,At Home
+S12000045,2014,Count,Children,49,At Home
+S12000017,2016,Count,Children,159,Foster / Prospective Adopters
+S12000017,2016,Count,Children,128,At Home
+S12000017,2013,Count,Children,168,Foster / Prospective Adopters
+S12000017,2018,Count,Children,173,Foster / Prospective Adopters
+S12000017,2010,Count,Children,140,Foster / Prospective Adopters
+S12000017,2018,Count,Children,521,All
+S12000017,2009,Count,Children,141,Foster / Prospective Adopters
+S12000017,2015,Count,Children,80,Residential Care
+S12000045,2014,Count,Children,23,Residential Care
+S12000017,2017,Count,Children,129,At Home
+S12000017,2016,Count,Children,80,Other Community Placement
+S12000045,2018,Count,Children,22,Residential Care
+S12000017,2012,Count,Children,139,At Home
+S12000017,2017,Count,Children,99,Other Community Placement
+S12000017,2010,Count,Children,78,Other Community Placement
+S12000017,2011,Count,Children,497,All
+S12000017,2018,Count,Children,85,Residential Care
+S12000017,2017,Count,Children,487,All
+S12000017,2014,Count,Children,150,Foster / Prospective Adopters
+S12000017,2017,Count,Children,174,Foster / Prospective Adopters
+S12000017,2016,Count,Children,440,All
+S12000045,2018,Count,Children,28,At Home
+S12000045,2015,Count,Children,51,At Home
+S12000017,2010,Count,Children,469,All
+S12000017,2015,Count,Children,128,At Home
+S12000017,2010,Count,Children,77,Residential Care
+S12000017,2012,Count,Children,83,Residential Care
+S12000045,2013,Count,Children,20,Residential Care
+S12000017,2018,Count,Children,110,Other Community Placement
+S12000017,2009,Count,Children,165,At Home
+S12000017,2014,Count,Children,136,At Home
+S12000045,2017,Count,Children,33,At Home
+S12000045,2011,Count,Children,46,At Home
+S12000017,2014,Count,Children,87,Residential Care
+S12000017,2009,Count,Children,456,All
+S12000017,2014,Count,Children,447,All
+S12000017,2013,Count,Children,126,At Home
+S12000017,2011,Count,Children,71,Residential Care
+S12000017,2012,Count,Children,193,Foster / Prospective Adopters
+S12000017,2016,Count,Children,73,Residential Care
+S12000017,2015,Count,Children,157,Foster / Prospective Adopters
+S12000045,2013,Count,Children,49,At Home
+S12000017,2011,Count,Children,160,Foster / Prospective Adopters
+S12000017,2017,Count,Children,85,Residential Care
+S12000017,2009,Count,Children,82,Other Community Placement
+S12000045,2010,Count,Children,135,All
+S12000017,2013,Count,Children,76,Residential Care
+S12000017,2009,Count,Children,68,Residential Care
+S12000017,2010,Count,Children,174,At Home
+S12000017,2012,Count,Children,507,All
+S12000045,2009,Count,Children,129,All
+S12000019,2012,Count,Children,73,Other Community Placement
+S12000042,2015,Count,Children,265,Foster / Prospective Adopters
+S12000019,2016,Count,Children,107,Foster / Prospective Adopters
+S12000042,2013,Count,Children,696,All
+S12000019,2012,Count,Children,276,All
+S12000019,2016,Count,Children,250,All
+S12000042,2015,Count,Children,47,Residential Care
+S12000019,2010,Count,Children,84,Other Community Placement
+S12000019,2011,Count,Children,109,Foster / Prospective Adopters
+S12000019,2009,Count,Children,118,Other Community Placement
+S12000019,2012,Count,Children,103,Foster / Prospective Adopters
+S12000019,2014,Count,Children,25,Residential Care
+S12000019,2013,Count,Children,26,Residential Care
+S12000019,2011,Count,Children,35,Residential Care
+S12000042,2017,Count,Children,259,Foster / Prospective Adopters
+S12000019,2012,Count,Children,65,At Home
+S12000042,2010,Count,Children,47,Residential Care
+S12000019,2013,Count,Children,110,At Home
+S12000019,2016,Count,Children,41,At Home
+S12000019,2014,Count,Children,80,Other Community Placement
+S12000019,2017,Count,Children,73,At Home
+S12000019,2017,Count,Children,93,Foster / Prospective Adopters
+S12000019,2010,Count,Children,106,At Home
+S12000019,2017,Count,Children,259,All
+S12000019,2015,Count,Children,255,All
+S12000019,2014,Count,Children,100,At Home
+S12000019,2018,Count,Children,233,All
+S12000019,2009,Count,Children,106,At Home
+S12000042,2011,Count,Children,199,At Home
+S12000042,2016,Count,Children,592,All
+S12000020,2015,Count,Children,209,All
+S12000020,2009,Count,Children,29,Residential Care
+S12000042,2017,Count,Children,61,Residential Care
+S12000042,2013,Count,Children,224,Other Community Placement
+S12000042,2010,Count,Children,182,At Home
+S12000042,2018,Count,Children,519,All
+S12000020,2016,Count,Children,35,Residential Care
+S12000020,2014,Count,Children,39,Other Community Placement
+S12000020,2011,Count,Children,28,Residential Care
+S12000042,2012,Count,Children,209,At Home
+S12000042,2014,Count,Children,617,All
+S12000020,2011,Count,Children,33,Other Community Placement
+S12000020,2012,Count,Children,40,Other Community Placement
+S12000020,2014,Count,Children,29,Residential Care
+S12000042,2009,Count,Children,180,At Home
+S12000020,2010,Count,Children,40,Other Community Placement
+S12000020,2009,Count,Children,55,Other Community Placement
+S12000020,2010,Count,Children,24,Residential Care
+S12000020,2013,Count,Children,33,Residential Care
+S12000020,2017,Count,Children,43,Other Community Placement
+S12000042,2016,Count,Children,126,At Home
+S12000042,2014,Count,Children,185,Other Community Placement
+S12000020,2018,Count,Children,38,Other Community Placement
+S12000020,2016,Count,Children,32,Other Community Placement
+S12000020,2015,Count,Children,37,Other Community Placement
+S12000042,2012,Count,Children,207,Other Community Placement
+S12000042,2018,Count,Children,62,Residential Care
+S12000019,2009,Count,Children,38,Residential Care
+S12000019,2018,Count,Children,21,Residential Care
+S12000042,2013,Count,Children,39,Residential Care
+S12000042,2012,Count,Children,46,Residential Care
+S12000042,2016,Count,Children,259,Foster / Prospective Adopters
+S12000019,2010,Count,Children,28,Residential Care
+S12000019,2011,Count,Children,302,All
+S12000019,2014,Count,Children,309,All
+S12000019,2012,Count,Children,35,Residential Care
+S12000019,2014,Count,Children,104,Foster / Prospective Adopters
+S12000019,2013,Count,Children,97,Foster / Prospective Adopters
+S12000019,2015,Count,Children,103,Foster / Prospective Adopters
+S12000019,2015,Count,Children,32,Residential Care
+S12000018,2017,Count,Children,60,Other Community Placement
+S12000042,2018,Count,Children,109,Other Community Placement
+S12000042,2016,Count,Children,150,Other Community Placement
+S12000042,2010,Count,Children,204,Other Community Placement
+S12000018,2010,Count,Children,293,All
+S12000018,2015,Count,Children,51,Other Community Placement
+S12000018,2009,Count,Children,318,All
+S12000018,2018,Count,Children,86,At Home
+S12000018,2009,Count,Children,65,Foster / Prospective Adopters
+S12000042,2011,Count,Children,252,Foster / Prospective Adopters
+S12000018,2016,Count,Children,31,Residential Care
+S12000018,2015,Count,Children,78,At Home
+S12000042,2012,Count,Children,261,Foster / Prospective Adopters
+S12000018,2017,Count,Children,27,Residential Care
+S12000019,2009,Count,Children,91,Foster / Prospective Adopters
+S12000019,2009,Count,Children,353,All
+S12000042,2013,Count,Children,265,Foster / Prospective Adopters
+S12000042,2018,Count,Children,243,Foster / Prospective Adopters
+S12000042,2010,Count,Children,204,Foster / Prospective Adopters
+S12000042,2009,Count,Children,170,Foster / Prospective Adopters
+S12000042,2014,Count,Children,261,Foster / Prospective Adopters
+S12000042,2009,Count,Children,48,Residential Care
+S12000019,2015,Count,Children,78,Other Community Placement
+S12000019,2017,Count,Children,65,Other Community Placement
+S12000019,2016,Count,Children,77,Other Community Placement
+S12000019,2015,Count,Children,42,At Home
+S12000019,2018,Count,Children,54,Other Community Placement
+S12000042,2012,Count,Children,723,All
+S12000019,2011,Count,Children,67,Other Community Placement
+S12000019,2013,Count,Children,64,Other Community Placement
+S12000019,2010,Count,Children,97,Foster / Prospective Adopters
+S12000019,2016,Count,Children,25,Residential Care
+S12000042,2014,Count,Children,138,At Home
+S12000019,2013,Count,Children,297,All
+S12000019,2018,Count,Children,71,Foster / Prospective Adopters
+S12000042,2011,Count,Children,708,All
+S12000042,2013,Count,Children,168,At Home
+S12000019,2018,Count,Children,87,At Home
+S12000019,2011,Count,Children,91,At Home
+S12000019,2010,Count,Children,315,All
+S12000019,2017,Count,Children,28,Residential Care
+S12000042,2014,Count,Children,33,Residential Care
+S12000035,2014,Count,Children,175,All
+S12000035,2013,Count,Children,23,Residential Care
+S12000030,2018,Count,Children,25,Residential Care
+S12000030,2016,Count,Children,60,Foster / Prospective Adopters
+S12000030,2013,Count,Children,69,Foster / Prospective Adopters
+S12000035,2017,Count,Children,175,All
+S12000030,2012,Count,Children,58,Other Community Placement
+S12000030,2012,Count,Children,251,All
+S12000033,2014,Count,Children,62,Residential Care
+S12000033,2017,Count,Children,302,Foster / Prospective Adopters
+S12000033,2013,Count,Children,55,Residential Care
+S12000033,2018,Count,Children,62,Residential Care
+S12000035,2012,Count,Children,53,Foster / Prospective Adopters
+S12000030,2014,Count,Children,63,Other Community Placement
+S12000033,2016,Count,Children,253,Foster / Prospective Adopters
+S12000030,2014,Count,Children,67,At Home
+S12000030,2010,Count,Children,64,Foster / Prospective Adopters
+S12000030,2012,Count,Children,90,At Home
+S12000030,2010,Count,Children,100,At Home
+S12000036,2017,Count,Children,1349,All
+S12000030,2015,Count,Children,33,Residential Care
+S12000030,2009,Count,Children,62,Foster / Prospective Adopters
+S12000030,2011,Count,Children,113,At Home
+S12000036,2014,Count,Children,1415,All
+S12000035,2011,Count,Children,30,Residential Care
+S12000030,2013,Count,Children,246,All
+S12000036,2015,Count,Children,1419,All
+S12000030,2017,Count,Children,33,Residential Care
+S12000030,2016,Count,Children,39,Residential Care
+S12000033,2012,Count,Children,605,All
+S12000035,2016,Count,Children,163,All
+S12000035,2011,Count,Children,71,At Home
+S12000033,2011,Count,Children,150,Other Community Placement
+S12000033,2009,Count,Children,701,All
+S12000035,2011,Count,Children,51,Foster / Prospective Adopters
+S12000033,2010,Count,Children,690,All
+S12000033,2013,Count,Children,125,Other Community Placement
+S12000035,2010,Count,Children,42,Residential Care
+S12000033,2015,Count,Children,549,All
+S12000035,2013,Count,Children,53,Other Community Placement
+S12000033,2011,Count,Children,206,At Home
+S12000033,2012,Count,Children,55,Residential Care
+S12000033,2014,Count,Children,577,All
+S12000035,2016,Count,Children,20,Residential Care
+S12000033,2015,Count,Children,125,At Home
+S12000035,2010,Count,Children,49,Foster / Prospective Adopters
+S12000035,2017,Count,Children,22,Residential Care
+S12000033,2017,Count,Children,108,At Home
+S12000033,2018,Count,Children,116,Other Community Placement
+S12000033,2016,Count,Children,115,At Home
+S12000033,2017,Count,Children,112,Other Community Placement
+S12000033,2016,Count,Children,119,Other Community Placement
+S12000033,2018,Count,Children,296,Foster / Prospective Adopters
+S12000033,2015,Count,Children,60,Residential Care
+S12000033,2010,Count,Children,145,Other Community Placement
+S12000033,2009,Count,Children,145,Other Community Placement
+S12000033,2015,Count,Children,103,Other Community Placement
+S12000030,2013,Count,Children,31,Residential Care
+S12000030,2017,Count,Children,87,At Home
+S12000030,2017,Count,Children,62,Foster / Prospective Adopters
+S12000030,2016,Count,Children,65,At Home
+S12000030,2009,Count,Children,95,At Home
+S12000030,2011,Count,Children,65,Foster / Prospective Adopters
+S12000036,2014,Count,Children,91,Residential Care
+S12000030,2014,Count,Children,30,Residential Care
+S12000030,2011,Count,Children,252,All
+S12000030,2013,Count,Children,76,Other Community Placement
+S12000036,2018,Count,Children,1309,All
+S12000030,2014,Count,Children,233,All
+S12000030,2012,Count,Children,72,Foster / Prospective Adopters
+S12000036,2014,Count,Children,345,At Home
+S12000036,2010,Count,Children,105,Residential Care
+S12000029,2010,Count,Children,166,At Home
+S12000036,2013,Count,Children,367,At Home
+S12000036,2018,Count,Children,106,Residential Care
+S12000029,2009,Count,Children,186,At Home
+S12000029,2009,Count,Children,490,All
+S12000029,2014,Count,Children,71,Residential Care
+S12000036,2010,Count,Children,427,At Home
+S12000030,2017,Count,Children,245,All
+S12000030,2015,Count,Children,64,At Home
+S12000036,2010,Count,Children,535,Foster / Prospective Adopters
+S12000036,2009,Count,Children,443,At Home
+S12000029,2016,Count,Children,227,Foster / Prospective Adopters
+S12000030,2011,Count,Children,43,Other Community Placement
+S12000030,2015,Count,Children,216,All
+S12000036,2012,Count,Children,103,Residential Care
+S12000030,2015,Count,Children,53,Other Community Placement
+S12000036,2016,Count,Children,1368,All
+S12000030,2018,Count,Children,64,Foster / Prospective Adopters
+S12000030,2018,Count,Children,236,All
+S12000030,2016,Count,Children,52,Other Community Placement
+S12000036,2012,Count,Children,1395,All
+S12000030,2010,Count,Children,28,Residential Care
+S12000036,2013,Count,Children,104,Residential Care
+S12000030,2014,Count,Children,73,Foster / Prospective Adopters
+S12000030,2009,Count,Children,29,Residential Care
+S12000030,2016,Count,Children,216,All
+S12000030,2015,Count,Children,66,Foster / Prospective Adopters
+S12000030,2009,Count,Children,218,All
+S12000030,2010,Count,Children,26,Other Community Placement
+S12000030,2011,Count,Children,31,Residential Care
+S12000036,2010,Count,Children,1319,All
+S12000030,2010,Count,Children,218,All
+S12000036,2011,Count,Children,1362,All
+S12000030,2018,Count,Children,83,At Home
+S12000030,2018,Count,Children,64,Other Community Placement
+S12000036,2009,Count,Children,1328,All
+S12000036,2013,Count,Children,1402,All
+S12000030,2017,Count,Children,63,Other Community Placement
+S12000030,2009,Count,Children,32,Other Community Placement
+S12000030,2012,Count,Children,31,Residential Care
+S12000030,2013,Count,Children,70,At Home
+S12000034,2017,Count,Children,80,At Home
+S12000035,2014,Count,Children,44,Other Community Placement
+S12000034,2014,Count,Children,168,Foster / Prospective Adopters
+S12000034,2015,Count,Children,80,Other Community Placement
+S12000035,2014,Count,Children,52,At Home
+S12000035,2012,Count,Children,57,At Home
+S12000034,2015,Count,Children,411,All
+S12000034,2017,Count,Children,395,All
+S12000034,2011,Count,Children,166,Foster / Prospective Adopters
+S12000034,2011,Count,Children,62,Residential Care
+S12000034,2013,Count,Children,163,Foster / Prospective Adopters
+S12000034,2011,Count,Children,94,Other Community Placement
+S12000035,2009,Count,Children,40,Foster / Prospective Adopters
+S12000034,2012,Count,Children,92,Other Community Placement
+S12000034,2010,Count,Children,84,Other Community Placement
+S12000034,2009,Count,Children,104,Other Community Placement
+S12000034,2009,Count,Children,458,All
+S12000034,2010,Count,Children,496,All
+S12000035,2017,Count,Children,52,At Home
+S12000034,2015,Count,Children,54,Residential Care
+S12000034,2017,Count,Children,70,Other Community Placement
+S12000035,2010,Count,Children,95,At Home
+S12000034,2010,Count,Children,182,At Home
+S12000034,2013,Count,Children,83,Other Community Placement
+S12000034,2014,Count,Children,403,All
+S12000035,2018,Count,Children,40,At Home
+S12000034,2009,Count,Children,128,At Home
+S12000034,2011,Count,Children,174,At Home
+S12000035,2015,Count,Children,167,All
+S12000035,2009,Count,Children,204,All
+S12000034,2013,Count,Children,128,At Home
+S12000034,2014,Count,Children,112,At Home
+S12000035,2011,Count,Children,219,All
+S12000034,2011,Count,Children,496,All
+S12000035,2009,Count,Children,89,At Home
+S12000035,2014,Count,Children,55,Foster / Prospective Adopters
+S12000035,2015,Count,Children,22,Residential Care
+S12000035,2012,Count,Children,190,All
+S12000035,2013,Count,Children,49,Foster / Prospective Adopters
+S12000034,2014,Count,Children,73,Other Community Placement
+S12000034,2017,Count,Children,55,Residential Care
+S12000034,2016,Count,Children,59,Residential Care
+S12000034,2014,Count,Children,50,Residential Care
+S12000034,2016,Count,Children,178,Foster / Prospective Adopters
+S12000034,2018,Count,Children,65,Residential Care
+S12000034,2017,Count,Children,190,Foster / Prospective Adopters
+S12000034,2009,Count,Children,154,Foster / Prospective Adopters
+S12000034,2010,Count,Children,155,Foster / Prospective Adopters
+S12000034,2016,Count,Children,411,All
+S12000034,2013,Count,Children,51,Residential Care
+S12000035,2013,Count,Children,75,At Home
+S12000034,2012,Count,Children,143,At Home
+S12000034,2018,Count,Children,81,At Home
+S12000035,2017,Count,Children,59,Other Community Placement
+S12000035,2010,Count,Children,250,All
+S12000034,2012,Count,Children,159,Foster / Prospective Adopters
+S12000033,2013,Count,Children,257,Foster / Prospective Adopters
+S12000035,2017,Count,Children,42,Foster / Prospective Adopters
+S12000033,2011,Count,Children,56,Residential Care
+S12000033,2012,Count,Children,257,Foster / Prospective Adopters
+S12000033,2014,Count,Children,113,Other Community Placement
+S12000033,2018,Count,Children,75,At Home
+S12000035,2011,Count,Children,67,Other Community Placement
+S12000033,2016,Count,Children,553,All
+S12000033,2011,Count,Children,230,Foster / Prospective Adopters
+S12000033,2009,Count,Children,81,Residential Care
+S12000035,2013,Count,Children,200,All
+S12000033,2017,Count,Children,590,All
+S12000035,2012,Count,Children,24,Residential Care
+S12000035,2018,Count,Children,27,Residential Care
+S12000033,2012,Count,Children,128,Other Community Placement
+S12000035,2009,Count,Children,41,Residential Care
+S12000035,2018,Count,Children,37,Foster / Prospective Adopters
+S12000033,2009,Count,Children,220,At Home
+S12000033,2010,Count,Children,240,At Home
+S12000033,2014,Count,Children,258,Foster / Prospective Adopters
+S12000035,2015,Count,Children,57,Foster / Prospective Adopters
+S12000033,2016,Count,Children,66,Residential Care
+S12000033,2013,Count,Children,606,All
+S12000035,2014,Count,Children,24,Residential Care
+S12000035,2016,Count,Children,50,Foster / Prospective Adopters
+S12000033,2010,Count,Children,240,Foster / Prospective Adopters
+S12000033,2009,Count,Children,255,Foster / Prospective Adopters
+S12000033,2017,Count,Children,68,Residential Care
+S12000034,2012,Count,Children,450,All
+S12000034,2010,Count,Children,75,Residential Care
+S12000035,2016,Count,Children,48,At Home
+S12000035,2015,Count,Children,48,At Home
+S12000034,2009,Count,Children,72,Residential Care
+S12000035,2009,Count,Children,34,Other Community Placement
+S12000035,2010,Count,Children,64,Other Community Placement
+S12000034,2015,Count,Children,106,At Home
+S12000034,2016,Count,Children,109,At Home
+S12000034,2016,Count,Children,65,Other Community Placement
+S12000035,2015,Count,Children,40,Other Community Placement
+S12000035,2018,Count,Children,45,Other Community Placement
+S12000034,2018,Count,Children,409,All
+S12000034,2018,Count,Children,81,Other Community Placement
+S12000033,2014,Count,Children,144,At Home
+S12000033,2010,Count,Children,65,Residential Care
+S12000033,2012,Count,Children,165,At Home
+S12000035,2012,Count,Children,56,Other Community Placement
+S12000033,2018,Count,Children,549,All
+S12000033,2013,Count,Children,169,At Home
+S12000033,2015,Count,Children,261,Foster / Prospective Adopters
+S12000034,2015,Count,Children,171,Foster / Prospective Adopters
+S12000034,2012,Count,Children,56,Residential Care
+S12000035,2018,Count,Children,149,All
+S12000035,2016,Count,Children,45,Other Community Placement
+S12000034,2013,Count,Children,425,All
+S12000033,2011,Count,Children,642,All
+S12000034,2018,Count,Children,182,Foster / Prospective Adopters
+S12000038,2012,Count,Children,193,Other Community Placement
+S12000027,2015,Count,Children,10,At Home
+S12000027,2016,Count,Children,8,Other Community Placement
+S12000038,2016,Count,Children,42,Residential Care
+S12000027,2009,Count,Children,5,Residential Care
+S12000027,2017,Count,Children,8,At Home
+S12000027,2018,Count,Children,8,Residential Care
+S12000038,2011,Count,Children,191,Other Community Placement
+S12000038,2014,Count,Children,247,Foster / Prospective Adopters
+S12000027,2015,Count,Children,10,Other Community Placement
+S12000038,2012,Count,Children,269,At Home
+S12000038,2010,Count,Children,312,At Home
+S12000027,2017,Count,Children,7,Other Community Placement
+S12000027,2010,Count,Children,36,All
+S12000027,2014,Count,Children,9,Foster / Prospective Adopters
+S12000038,2014,Count,Children,713,All
+S12000038,2009,Count,Children,251,At Home
+S12000038,2016,Count,Children,221,At Home
+S12000038,2018,Count,Children,221,At Home
+S12000027,2011,Count,Children,10,Foster / Prospective Adopters
+S12000027,2013,Count,Children,11,Foster / Prospective Adopters
+S12000027,2012,Count,Children,6,Other Community Placement
+S12000027,2018,Count,Children,3,Other Community Placement
+S12000027,2018,Count,Children,4,At Home
+S12000027,2011,Count,Children,6,Other Community Placement
+S12000027,2015,Count,Children,35,All
+S12000027,2009,Count,Children,37,All
+S12000027,2012,Count,Children,31,All
+S12000028,2009,Count,Children,84,Foster / Prospective Adopters
+S12000038,2015,Count,Children,51,Residential Care
+S12000028,2016,Count,Children,78,Other Community Placement
+S12000028,2017,Count,Children,95,Other Community Placement
+S12000038,2015,Count,Children,220,At Home
+S12000038,2014,Count,Children,175,Other Community Placement
+S12000028,2010,Count,Children,107,Foster / Prospective Adopters
+S12000038,2013,Count,Children,196,Other Community Placement
+S12000028,2013,Count,Children,60,Other Community Placement
+S12000028,2016,Count,Children,124,At Home
+S12000028,2015,Count,Children,87,At Home
+S12000028,2014,Count,Children,65,Other Community Placement
+S12000038,2015,Count,Children,177,Other Community Placement
+S12000028,2018,Count,Children,134,Foster / Prospective Adopters
+S12000038,2012,Count,Children,786,All
+S12000038,2015,Count,Children,682,All
+S12000038,2011,Count,Children,255,At Home
+S12000027,2014,Count,Children,31,All
+S12000038,2013,Count,Children,260,Foster / Prospective Adopters
+S12000027,2011,Count,Children,28,All
+S12000027,2009,Count,Children,14,At Home
+S12000028,2018,Count,Children,90,Other Community Placement
+S12000028,2014,Count,Children,343,All
+S12000028,2015,Count,Children,71,Other Community Placement
+S12000028,2010,Count,Children,24,Residential Care
+S12000028,2016,Count,Children,384,All
+S12000038,2018,Count,Children,656,All
+S12000028,2009,Count,Children,32,Residential Care
+S12000026,2014,Count,Children,28,Residential Care
+S12000026,2016,Count,Children,61,Other Community Placement
+S12000026,2012,Count,Children,38,Other Community Placement
+S12000026,2017,Count,Children,26,Residential Care
+S12000026,2013,Count,Children,184,All
+S12000038,2018,Count,Children,49,Residential Care
+S12000038,2012,Count,Children,254,Foster / Prospective Adopters
+S12000027,2013,Count,Children,31,All
+S12000038,2010,Count,Children,78,Residential Care
+S12000027,2018,Count,Children,14,Foster / Prospective Adopters
+S12000027,2016,Count,Children,10,Foster / Prospective Adopters
+S12000026,2014,Count,Children,35,Other Community Placement
+S12000038,2010,Count,Children,166,Other Community Placement
+S12000026,2015,Count,Children,24,At Home
+S12000038,2011,Count,Children,769,All
+S12000038,2013,Count,Children,76,Residential Care
+S12000026,2010,Count,Children,21,Residential Care
+S12000038,2012,Count,Children,70,Residential Care
+S12000038,2016,Count,Children,190,Other Community Placement
+S12000026,2014,Count,Children,100,Foster / Prospective Adopters
+S12000026,2012,Count,Children,18,Residential Care
+S12000026,2009,Count,Children,18,Residential Care
+S12000026,2016,Count,Children,27,Residential Care
+S12000026,2016,Count,Children,218,All
+S12000038,2011,Count,Children,249,Foster / Prospective Adopters
+S12000026,2015,Count,Children,201,All
+S12000026,2017,Count,Children,47,At Home
+S12000026,2017,Count,Children,58,Other Community Placement
+S12000027,2011,Count,Children,8,At Home
+S12000027,2017,Count,Children,12,Foster / Prospective Adopters
+S12000027,2015,Count,Children,11,Foster / Prospective Adopters
+S12000027,2014,Count,Children,13,At Home
+S12000027,2010,Count,Children,7,Residential Care
+S12000027,2012,Count,Children,12,At Home
+S12000038,2017,Count,Children,218,Foster / Prospective Adopters
+S12000027,2016,Count,Children,29,All
+S12000027,2012,Count,Children,9,Foster / Prospective Adopters
+S12000038,2017,Count,Children,41,Residential Care
+S12000027,2018,Count,Children,29,All
+S12000027,2013,Count,Children,13,At Home
+S12000038,2016,Count,Children,681,All
+S12000038,2018,Count,Children,192,Other Community Placement
+S12000027,2010,Count,Children,13,At Home
+S12000038,2009,Count,Children,227,Foster / Prospective Adopters
+S12000027,2014,Count,Children,6,Other Community Placement
+S12000027,2009,Count,Children,10,Foster / Prospective Adopters
+S12000027,2017,Count,Children,32,All
+S12000038,2009,Count,Children,97,Residential Care
+S12000038,2010,Count,Children,234,Foster / Prospective Adopters
+S12000027,2010,Count,Children,9,Foster / Prospective Adopters
+S12000038,2017,Count,Children,660,All
+S12000027,2009,Count,Children,8,Other Community Placement
+S12000027,2017,Count,Children,5,Residential Care
+S12000038,2018,Count,Children,194,Foster / Prospective Adopters
+S12000038,2016,Count,Children,228,Foster / Prospective Adopters
+S12000027,2010,Count,Children,7,Other Community Placement
+S12000036,2013,Count,Children,296,Other Community Placement
+S12000029,2015,Count,Children,190,Foster / Prospective Adopters
+S12000036,2017,Count,Children,335,At Home
+S12000036,2014,Count,Children,356,Other Community Placement
+S12000029,2011,Count,Children,79,Other Community Placement
+S12000029,2011,Count,Children,192,Foster / Prospective Adopters
+S12000029,2013,Count,Children,120,Other Community Placement
+S12000029,2014,Count,Children,196,Foster / Prospective Adopters
+S12000029,2017,Count,Children,157,At Home
+S12000036,2012,Count,Children,372,At Home
+S12000036,2016,Count,Children,350,At Home
+S12000029,2014,Count,Children,212,At Home
+S12000029,2014,Count,Children,595,All
+S12000029,2016,Count,Children,70,Residential Care
+S12000029,2010,Count,Children,491,All
+S12000036,2012,Count,Children,286,Other Community Placement
+S12000029,2016,Count,Children,563,All
+S12000036,2015,Count,Children,353,At Home
+S12000029,2018,Count,Children,75,Residential Care
+S12000029,2012,Count,Children,72,Residential Care
+S12000029,2013,Count,Children,181,Foster / Prospective Adopters
+S12000029,2012,Count,Children,175,Foster / Prospective Adopters
+S12000036,2011,Count,Children,267,Other Community Placement
+S12000029,2013,Count,Children,71,Residential Care
+S12000029,2011,Count,Children,107,Residential Care
+S12000029,2013,Count,Children,225,At Home
+S12000036,2011,Count,Children,106,Residential Care
+S12000029,2016,Count,Children,160,At Home
+S12000029,2013,Count,Children,597,All
+S12000029,2018,Count,Children,178,At Home
+S12000029,2009,Count,Children,90,Residential Care
+S12000029,2010,Count,Children,156,Foster / Prospective Adopters
+S12000029,2017,Count,Children,214,Foster / Prospective Adopters
+S12000029,2010,Count,Children,92,Other Community Placement
+S12000036,2012,Count,Children,634,Foster / Prospective Adopters
+S12000029,2012,Count,Children,240,At Home
+S12000029,2009,Count,Children,123,Foster / Prospective Adopters
+S12000029,2015,Count,Children,110,Other Community Placement
+S12000029,2015,Count,Children,178,At Home
+S12000029,2014,Count,Children,116,Other Community Placement
+S12000029,2010,Count,Children,77,Residential Care
+S12000029,2012,Count,Children,617,All
+S12000036,2011,Count,Children,435,At Home
+S12000029,2011,Count,Children,169,At Home
+S12000036,2011,Count,Children,554,Foster / Prospective Adopters
+S12000029,2016,Count,Children,106,Other Community Placement
+S12000029,2017,Count,Children,114,Other Community Placement
+S12000029,2017,Count,Children,64,Residential Care
+S12000029,2012,Count,Children,130,Other Community Placement
+S12000029,2018,Count,Children,215,Foster / Prospective Adopters
+S12000029,2009,Count,Children,91,Other Community Placement
+S12000029,2018,Count,Children,187,Other Community Placement
+S12000036,2017,Count,Children,301,Other Community Placement
+S12000036,2009,Count,Children,122,Residential Care
+S12000029,2011,Count,Children,547,All
+S12000036,2009,Count,Children,496,Foster / Prospective Adopters
+S12000036,2016,Count,Children,595,Foster / Prospective Adopters
+S12000028,2009,Count,Children,290,All
+S12000028,2012,Count,Children,119,Foster / Prospective Adopters
+S12000028,2014,Count,Children,31,Residential Care
+S12000028,2015,Count,Children,330,All
+S12000028,2013,Count,Children,365,All
+S12000028,2015,Count,Children,145,Foster / Prospective Adopters
+S12000036,2015,Count,Children,643,Foster / Prospective Adopters
+S12000028,2010,Count,Children,58,Other Community Placement
+S12000028,2014,Count,Children,111,At Home
+S12000028,2016,Count,Children,159,Foster / Prospective Adopters
+S12000036,2014,Count,Children,623,Foster / Prospective Adopters
+S12000036,2017,Count,Children,604,Foster / Prospective Adopters
+S12000036,2010,Count,Children,252,Other Community Placement
+S12000028,2011,Count,Children,21,Residential Care
+S12000028,2017,Count,Children,128,At Home
+S12000028,2013,Count,Children,134,Foster / Prospective Adopters
+S12000028,2011,Count,Children,132,At Home
+S12000028,2016,Count,Children,23,Residential Care
+S12000028,2017,Count,Children,21,Residential Care
+S12000038,2017,Count,Children,221,At Home
+S12000028,2012,Count,Children,65,Other Community Placement
+S12000028,2018,Count,Children,97,At Home
+S12000028,2017,Count,Children,370,All
+S12000028,2011,Count,Children,63,Other Community Placement
+S12000028,2014,Count,Children,136,Foster / Prospective Adopters
+S12000038,2011,Count,Children,74,Residential Care
+S12000028,2011,Count,Children,120,Foster / Prospective Adopters
+S12000028,2010,Count,Children,351,All
+S12000036,2009,Count,Children,267,Other Community Placement
+S12000028,2009,Count,Children,51,Other Community Placement
+S12000036,2018,Count,Children,353,At Home
+S12000028,2009,Count,Children,123,At Home
+S12000036,2016,Count,Children,333,Other Community Placement
+S12000036,2018,Count,Children,583,Foster / Prospective Adopters
+S12000029,2017,Count,Children,549,All
+S12000036,2015,Count,Children,329,Other Community Placement
+S12000029,2015,Count,Children,548,All
+S12000029,2015,Count,Children,70,Residential Care
+S12000029,2018,Count,Children,655,All
+S12000036,2016,Count,Children,90,Residential Care
+S12000036,2017,Count,Children,109,Residential Care
+S12000028,2013,Count,Children,25,Residential Care
+S12000028,2011,Count,Children,336,All
+S12000036,2015,Count,Children,94,Residential Care
+S12000028,2012,Count,Children,19,Residential Care
+S12000028,2013,Count,Children,146,At Home
+S12000028,2017,Count,Children,126,Foster / Prospective Adopters
+S12000028,2015,Count,Children,27,Residential Care
+S12000028,2018,Count,Children,355,All
+S12000028,2012,Count,Children,149,At Home
+S12000028,2010,Count,Children,162,At Home
+S12000028,2012,Count,Children,352,All
+S12000036,2018,Count,Children,267,Other Community Placement
+S12000028,2018,Count,Children,34,Residential Care
+S12000036,2013,Count,Children,635,Foster / Prospective Adopters
+S12000006,2013,Count,Children,101,Other Community Placement
+S12000049,2011,Count,Children,1213,Other Community Placement
+S12000006,2014,Count,Children,99,Other Community Placement
+S12000006,2012,Count,Children,183,At Home
+S12000006,2018,Count,Children,168,At Home
+S12000049,2013,Count,Children,1343,Other Community Placement
+S12000006,2016,Count,Children,119,Other Community Placement
+S12000006,2014,Count,Children,151,At Home
+S12000006,2017,Count,Children,129,Other Community Placement
+S12000049,2018,Count,Children,491,At Home
+S12000049,2012,Count,Children,977,At Home
+S12000049,2015,Count,Children,3410,All
+S12000006,2010,Count,Children,90,Other Community Placement
+S12000006,2009,Count,Children,88,Other Community Placement
+S12000005,2011,Count,Children,91,At Home
+S12000049,2009,Count,Children,1383,At Home
+S12000005,2013,Count,Children,46,Other Community Placement
+S12000005,2014,Count,Children,52,At Home
+S12000049,2016,Count,Children,1107,Foster / Prospective Adopters
+S12000005,2012,Count,Children,214,All
+S12000049,2011,Count,Children,1168,Foster / Prospective Adopters
+S12000005,2010,Count,Children,73,Foster / Prospective Adopters
+S12000005,2014,Count,Children,15,Residential Care
+S12000005,2009,Count,Children,55,Foster / Prospective Adopters
+S12000049,2010,Count,Children,3570,All
+S12000005,2013,Count,Children,70,Foster / Prospective Adopters
+S12000005,2012,Count,Children,72,At Home
+S12000049,2017,Count,Children,1152,Other Community Placement
+S12000006,2014,Count,Children,387,All
+S12000049,2016,Count,Children,3294,All
+S12000006,2013,Count,Children,140,At Home
+S12000006,2010,Count,Children,394,All
+S12000006,2010,Count,Children,44,Residential Care
+S12000006,2011,Count,Children,116,Foster / Prospective Adopters
+S12000006,2009,Count,Children,40,Residential Care
+S12000006,2018,Count,Children,439,All
+S12000006,2009,Count,Children,441,All
+S12000006,2014,Count,Children,34,Residential Care
+S12000049,2014,Count,Children,3504,All
+S12000006,2016,Count,Children,124,At Home
+S12000006,2017,Count,Children,121,At Home
+S12000049,2018,Count,Children,232,Residential Care
+S12000006,2018,Count,Children,115,Other Community Placement
+S12000049,2011,Count,Children,241,Residential Care
+S12000006,2015,Count,Children,409,All
+S12000006,2016,Count,Children,32,Residential Care
+S12000006,2015,Count,Children,172,At Home
+S12000006,2015,Count,Children,103,Other Community Placement
+S12000049,2011,Count,Children,3834,All
+S12000049,2012,Count,Children,1277,Other Community Placement
+S12000006,2010,Count,Children,107,Foster / Prospective Adopters
+S12000006,2017,Count,Children,22,Residential Care
+S12000006,2011,Count,Children,177,At Home
+S12000006,2012,Count,Children,93,Other Community Placement
+S12000006,2009,Count,Children,94,Foster / Prospective Adopters
+S12000005,2015,Count,Children,35,Other Community Placement
+S12000005,2012,Count,Children,18,Residential Care
+S12000005,2018,Count,Children,58,Other Community Placement
+S12000005,2014,Count,Children,184,All
+S12000049,2012,Count,Children,265,Residential Care
+S12000005,2017,Count,Children,62,At Home
+S12000005,2017,Count,Children,213,All
+S12000049,2018,Count,Children,1152,Other Community Placement
+S12000005,2013,Count,Children,183,All
+S12000049,2016,Count,Children,1356,Other Community Placement
+S12000005,2011,Count,Children,57,Foster / Prospective Adopters
+S12000005,2016,Count,Children,83,At Home
+S12000049,2015,Count,Children,1358,Other Community Placement
+S12000005,2016,Count,Children,233,All
+S12000005,2010,Count,Children,222,All
+S12000049,2013,Count,Children,856,At Home
+S12000005,2009,Count,Children,51,Other Community Placement
+S12000005,2010,Count,Children,20,Residential Care
+S12000049,2012,Count,Children,3740,All
+S12000005,2012,Count,Children,70,Foster / Prospective Adopters
+S12000005,2015,Count,Children,19,Residential Care
+S12000049,2010,Count,Children,253,Residential Care
+S12000005,2016,Count,Children,22,Residential Care
+S12000005,2011,Count,Children,16,Residential Care
+S12000005,2018,Count,Children,211,All
+S12000005,2010,Count,Children,49,Other Community Placement
+S12000049,2009,Count,Children,255,Residential Care
+S12000005,2017,Count,Children,22,Residential Care
+S12000005,2016,Count,Children,91,Foster / Prospective Adopters
+S12000049,2017,Count,Children,2827,All
+S12000049,2012,Count,Children,1221,Foster / Prospective Adopters
+S12000005,2014,Count,Children,79,Foster / Prospective Adopters
+S12000005,2011,Count,Children,221,All
+S12000005,2018,Count,Children,13,Residential Care
+S12000049,2013,Count,Children,3674,All
+S12000005,2011,Count,Children,57,Other Community Placement
+S12000005,2009,Count,Children,79,At Home
+S12000005,2018,Count,Children,72,At Home
+S12000049,2017,Count,Children,952,Foster / Prospective Adopters
+S12000005,2018,Count,Children,68,Foster / Prospective Adopters
+S12000005,2017,Count,Children,86,Foster / Prospective Adopters
+S12000005,2013,Count,Children,16,Residential Care
+S12000049,2009,Count,Children,3280,All
+S12000005,2015,Count,Children,202,All
+S12000049,2009,Count,Children,623,Other Community Placement
+S12000005,2014,Count,Children,38,Other Community Placement
+S12000005,2015,Count,Children,59,At Home
+S12000049,2010,Count,Children,1423,At Home
+S12000049,2018,Count,Children,2827,All
+S12000005,2015,Count,Children,89,Foster / Prospective Adopters
+S12000005,2013,Count,Children,51,At Home
+S12000005,2016,Count,Children,37,Other Community Placement
+S12000049,2010,Count,Children,788,Other Community Placement
+S12000005,2017,Count,Children,43,Other Community Placement
+S12000005,2010,Count,Children,80,At Home
+S12000008,2017,Count,Children,386,All
+S12000008,2016,Count,Children,128,At Home
+S12000048,2018,Count,Children,70,At Home
+S12000008,2018,Count,Children,124,At Home
+S12000008,2013,Count,Children,38,Residential Care
+S12000048,2010,Count,Children,69,At Home
+S12000008,2011,Count,Children,164,Foster / Prospective Adopters
+S12000048,2017,Count,Children,67,At Home
+S12000048,2018,Count,Children,76,Other Community Placement
+S12000008,2015,Count,Children,109,At Home
+S12000008,2014,Count,Children,500,All
+S12000008,2011,Count,Children,46,Residential Care
+S12000008,2012,Count,Children,34,Residential Care
+S12000008,2012,Count,Children,170,Foster / Prospective Adopters
+S12000008,2012,Count,Children,192,Other Community Placement
+S12000048,2013,Count,Children,50,At Home
+S12000008,2018,Count,Children,36,Residential Care
+S12000008,2009,Count,Children,203,At Home
+S12000048,2010,Count,Children,9,Residential Care
+S12000008,2014,Count,Children,119,At Home
+S12000008,2010,Count,Children,95,Other Community Placement
+S12000008,2012,Count,Children,517,All
+S12000008,2013,Count,Children,521,All
+S12000048,2012,Count,Children,58,At Home
+S12000008,2016,Count,Children,463,All
+S12000008,2017,Count,Children,114,At Home
+S12000008,2011,Count,Children,145,Other Community Placement
+S12000048,2017,Count,Children,74,Other Community Placement
+S12000010,2010,Count,Children,50,Other Community Placement
+S12000008,2010,Count,Children,171,Foster / Prospective Adopters
+S12000010,2012,Count,Children,200,All
+S12000010,2013,Count,Children,30,Other Community Placement
+S12000008,2012,Count,Children,121,At Home
+S12000048,2011,Count,Children,56,Other Community Placement
+S12000008,2013,Count,Children,165,Foster / Prospective Adopters
+S12000010,2009,Count,Children,40,Other Community Placement
+S12000010,2014,Count,Children,32,Other Community Placement
+S12000048,2013,Count,Children,74,Other Community Placement
+S12000048,2018,Count,Children,121,Foster / Prospective Adopters
+S12000048,2010,Count,Children,81,Foster / Prospective Adopters
+S12000048,2011,Count,Children,201,All
+S12000010,2012,Count,Children,63,At Home
+S12000048,2011,Count,Children,49,At Home
+S12000008,2015,Count,Children,159,Other Community Placement
+S12000008,2010,Count,Children,482,All
+S12000008,2014,Count,Children,181,Other Community Placement
+S12000008,2011,Count,Children,153,At Home
+S12000048,2015,Count,Children,20,Residential Care
+S12000008,2018,Count,Children,108,Other Community Placement
+S12000008,2015,Count,Children,461,All
+S12000008,2017,Count,Children,135,Foster / Prospective Adopters
+S12000008,2015,Count,Children,31,Residential Care
+S12000008,2016,Count,Children,160,Foster / Prospective Adopters
+S12000008,2009,Count,Children,120,Other Community Placement
+S12000048,2018,Count,Children,13,Residential Care
+S12000006,2013,Count,Children,34,Residential Care
+S12000006,2011,Count,Children,418,All
+S12000006,2017,Count,Children,382,All
+S12000048,2013,Count,Children,15,Residential Care
+S12000048,2014,Count,Children,38,At Home
+S12000006,2015,Count,Children,31,Residential Care
+S12000006,2013,Count,Children,100,Foster / Prospective Adopters
+S12000006,2012,Count,Children,93,Foster / Prospective Adopters
+S12000048,2014,Count,Children,19,Residential Care
+S12000048,2018,Count,Children,280,All
+S12000048,2010,Count,Children,42,Other Community Placement
+S12000006,2012,Count,Children,32,Residential Care
+S12000006,2013,Count,Children,375,All
+S12000006,2012,Count,Children,401,All
+S12000006,2018,Count,Children,27,Residential Care
+S12000006,2011,Count,Children,91,Other Community Placement
+S12000048,2009,Count,Children,9,Residential Care
+S12000006,2016,Count,Children,118,Foster / Prospective Adopters
+S12000049,2014,Count,Children,1362,Other Community Placement
+S12000006,2014,Count,Children,103,Foster / Prospective Adopters
+S12000006,2009,Count,Children,219,At Home
+S12000006,2010,Count,Children,153,At Home
+S12000006,2015,Count,Children,103,Foster / Prospective Adopters
+S12000006,2018,Count,Children,129,Foster / Prospective Adopters
+S12000006,2017,Count,Children,110,Foster / Prospective Adopters
+S12000048,2015,Count,Children,44,At Home
+S12000006,2016,Count,Children,393,All
+S12000048,2016,Count,Children,59,At Home
+S12000008,2016,Count,Children,137,Other Community Placement
+S12000008,2017,Count,Children,100,Other Community Placement
+S12000008,2009,Count,Children,526,All
+S12000008,2018,Count,Children,401,All
+S12000008,2018,Count,Children,133,Foster / Prospective Adopters
+S12000008,2013,Count,Children,181,Other Community Placement
+S12000048,2014,Count,Children,91,Other Community Placement
+S12000008,2009,Count,Children,41,Residential Care
+S12000048,2016,Count,Children,18,Residential Care
+S12000048,2009,Count,Children,73,At Home
+S12000008,2014,Count,Children,38,Residential Care
+S12000048,2012,Count,Children,18,Residential Care
+S12000008,2014,Count,Children,162,Foster / Prospective Adopters
+S12000048,2011,Count,Children,18,Residential Care
+S12000008,2016,Count,Children,38,Residential Care
+S12000008,2011,Count,Children,508,All
+S12000008,2010,Count,Children,175,At Home
+S12000008,2013,Count,Children,137,At Home
+S12000048,2017,Count,Children,23,Residential Care
+S12000006,2011,Count,Children,34,Residential Care
+S12000048,2017,Count,Children,281,All
+S12000008,2009,Count,Children,162,Foster / Prospective Adopters
+S12000008,2010,Count,Children,41,Residential Care
+S12000008,2015,Count,Children,162,Foster / Prospective Adopters
+S12000008,2017,Count,Children,37,Residential Care
+S12000048,2015,Count,Children,82,Other Community Placement
+S12000048,2009,Count,Children,31,Other Community Placement
+S12000050,2018,Count,Children,754,All
+S12000040,2014,Count,Children,125,At Home
+S12000040,2018,Count,Children,443,All
+S12000040,2015,Count,Children,155,Foster / Prospective Adopters
+S12000039,2014,Count,Children,93,Foster / Prospective Adopters
+S12000039,2009,Count,Children,183,At Home
+S12000050,2017,Count,Children,38,Residential Care
+S12000040,2018,Count,Children,139,Other Community Placement
+S12000050,2016,Count,Children,39,Residential Care
+S12000040,2012,Count,Children,46,Residential Care
+S12000040,2014,Count,Children,106,Other Community Placement
+S12000050,2010,Count,Children,134,Foster / Prospective Adopters
+S12000040,2018,Count,Children,104,At Home
+S12000040,2018,Count,Children,42,Residential Care
+S12000039,2013,Count,Children,100,Other Community Placement
+S12000050,2013,Count,Children,355,At Home
+S12000039,2011,Count,Children,383,All
+S12000039,2012,Count,Children,86,Other Community Placement
+S12000039,2017,Count,Children,429,All
+S12000050,2012,Count,Children,373,At Home
+S12000039,2011,Count,Children,42,Residential Care
+S12000039,2011,Count,Children,92,Foster / Prospective Adopters
+S12000039,2012,Count,Children,90,Foster / Prospective Adopters
+S12000050,2018,Count,Children,109,Foster / Prospective Adopters
+S12000050,2014,Count,Children,171,Foster / Prospective Adopters
+S12000039,2011,Count,Children,166,At Home
+S12000039,2012,Count,Children,43,Residential Care
+S12000039,2015,Count,Children,92,Foster / Prospective Adopters
+S12000040,2017,Count,Children,134,At Home
+S12000050,2009,Count,Children,420,At Home
+S12000050,2011,Count,Children,347,At Home
+S12000040,2009,Count,Children,150,At Home
+S12000040,2013,Count,Children,445,All
+S12000040,2016,Count,Children,117,At Home
+S12000050,2015,Count,Children,165,Foster / Prospective Adopters
+S12000050,2011,Count,Children,734,All
+S12000040,2016,Count,Children,449,All
+S12000040,2017,Count,Children,53,Residential Care
+S12000040,2013,Count,Children,134,Foster / Prospective Adopters
+S12000040,2014,Count,Children,136,Foster / Prospective Adopters
+S12000040,2012,Count,Children,138,Foster / Prospective Adopters
+S12000050,2012,Count,Children,179,Foster / Prospective Adopters
+S12000040,2015,Count,Children,434,All
+S12000040,2013,Count,Children,148,At Home
+S12000040,2010,Count,Children,57,Residential Care
+S12000040,2011,Count,Children,447,All
+S12000050,2013,Count,Children,171,Foster / Prospective Adopters
+S12000050,2009,Count,Children,160,Foster / Prospective Adopters
+S12000040,2009,Count,Children,152,Foster / Prospective Adopters
+S12000040,2010,Count,Children,175,At Home
+S12000050,2015,Count,Children,266,At Home
+S12000040,2010,Count,Children,141,Foster / Prospective Adopters
+S12000050,2018,Count,Children,284,At Home
+S12000040,2009,Count,Children,47,Residential Care
+S12000050,2011,Count,Children,183,Foster / Prospective Adopters
+S12000039,2013,Count,Children,98,Foster / Prospective Adopters
+S12000039,2017,Count,Children,43,Residential Care
+S12000039,2016,Count,Children,37,Residential Care
+S12000039,2017,Count,Children,100,At Home
+S12000039,2015,Count,Children,42,Residential Care
+S12000050,2010,Count,Children,800,All
+S12000039,2011,Count,Children,83,Other Community Placement
+S12000039,2017,Count,Children,204,Other Community Placement
+S12000039,2018,Count,Children,445,All
+S12000039,2018,Count,Children,114,Foster / Prospective Adopters
+S12000050,2011,Count,Children,163,Other Community Placement
+S12000039,2017,Count,Children,82,Foster / Prospective Adopters
+S12000039,2016,Count,Children,76,Foster / Prospective Adopters
+S12000039,2015,Count,Children,147,Other Community Placement
+S12000039,2009,Count,Children,81,Foster / Prospective Adopters
+S12000050,2014,Count,Children,706,All
+S12000039,2010,Count,Children,84,Foster / Prospective Adopters
+S12000039,2014,Count,Children,369,All
+S12000039,2016,Count,Children,168,Other Community Placement
+S12000050,2016,Count,Children,292,At Home
+S12000039,2013,Count,Children,46,Residential Care
+S12000050,2009,Count,Children,728,All
+S12000039,2009,Count,Children,376,All
+S12000050,2014,Count,Children,282,At Home
+S12000039,2010,Count,Children,383,All
+S12000050,2010,Count,Children,634,At Home
+S12000050,2018,Count,Children,41,Residential Care
+S12000039,2013,Count,Children,110,At Home
+S12000050,2016,Count,Children,267,Other Community Placement
+S12000050,2015,Count,Children,697,All
+S12000039,2010,Count,Children,177,At Home
+S12000039,2014,Count,Children,105,At Home
+S12000039,2015,Count,Children,105,At Home
+S12000039,2014,Count,Children,136,Other Community Placement
+S12000039,2010,Count,Children,79,Other Community Placement
+S12000039,2016,Count,Children,82,At Home
+S12000039,2018,Count,Children,180,Other Community Placement
+S12000039,2016,Count,Children,363,All
+S12000039,2015,Count,Children,386,All
+S12000050,2017,Count,Children,290,At Home
+S12000050,2013,Count,Children,747,All
+S12000039,2013,Count,Children,354,All
+S12000050,2016,Count,Children,765,All
+S12000050,2014,Count,Children,219,Other Community Placement
+S12000039,2012,Count,Children,369,All
+S12000039,2012,Count,Children,150,At Home
+S12000039,2014,Count,Children,35,Residential Care
+S12000039,2018,Count,Children,43,Residential Care
+S12000050,2017,Count,Children,773,All
+S12000050,2012,Count,Children,140,Other Community Placement
+S12000039,2010,Count,Children,43,Residential Care
+S12000050,2012,Count,Children,730,All
+S12000039,2009,Count,Children,47,Residential Care
+S12000039,2009,Count,Children,65,Other Community Placement
+S12000039,2018,Count,Children,108,At Home
+S92000003,2011,Count,Children,16231,All
+S92000003,2014,Count,Children,5723,Foster / Prospective Adopters
+S92000003,2010,Count,Children,4996,Foster / Prospective Adopters
+S12000049,2009,Count,Children,1019,Foster / Prospective Adopters
+S12000049,2011,Count,Children,1212,At Home
+S12000049,2016,Count,Children,544,At Home
+S92000003,2016,Count,Children,3875,At Home
+S12000049,2015,Count,Children,583,At Home
+S12000049,2017,Count,Children,491,At Home
+S92000003,2017,Count,Children,14987,All
+S92000003,2009,Count,Children,15287,All
+S92000003,2013,Count,Children,4762,At Home
+S12000049,2014,Count,Children,268,Residential Care
+S92000003,2009,Count,Children,4741,Foster / Prospective Adopters
+S92000003,2011,Count,Children,1461,Residential Care
+S12000049,2010,Count,Children,1106,Foster / Prospective Adopters
+S92000003,2012,Count,Children,5541,Foster / Prospective Adopters
+S92000003,2017,Count,Children,5449,Foster / Prospective Adopters
+S92000003,2010,Count,Children,6193,At Home
+S12000050,2016,Count,Children,167,Foster / Prospective Adopters
+S92000003,2013,Count,Children,1466,Residential Care
+S92000003,2016,Count,Children,4320,Other Community Placement
+S92000003,2017,Count,Children,3766,At Home
+S92000003,2012,Count,Children,4121,Other Community Placement
+S12000049,2014,Count,Children,659,At Home
+S92000003,2015,Count,Children,15404,All
+S92000003,2016,Count,Children,1480,Residential Care
+S12000049,2015,Count,Children,1172,Foster / Prospective Adopters
+S92000003,2013,Count,Children,16032,All
+S92000003,2015,Count,Children,5742,Foster / Prospective Adopters
+S12000049,2013,Count,Children,269,Residential Care
+S92000003,2012,Count,Children,1433,Residential Care
+S12000049,2013,Count,Children,1206,Foster / Prospective Adopters
+S92000003,2018,Count,Children,14736,All
+S92000003,2014,Count,Children,4142,At Home
+S12000005,2009,Count,Children,22,Residential Care
+S12000005,2012,Count,Children,54,Other Community Placement
+S12000049,2016,Count,Children,287,Residential Care
+S12000005,2009,Count,Children,207,All
+S12000049,2017,Count,Children,232,Residential Care
+S12000049,2018,Count,Children,952,Foster / Prospective Adopters
+S92000003,2010,Count,Children,1480,Residential Care
+S92000003,2018,Count,Children,3818,At Home
+S92000003,2015,Count,Children,1529,Residential Care
+S12000049,2014,Count,Children,1215,Foster / Prospective Adopters
+S92000003,2013,Count,Children,5576,Foster / Prospective Adopters
+S92000003,2010,Count,Children,3223,Other Community Placement
+S92000003,2009,Count,Children,3042,Other Community Placement
+S92000003,2015,Count,Children,3927,At Home
+S92000003,2018,Count,Children,4153,Other Community Placement
+S92000003,2013,Count,Children,4228,Other Community Placement
+S92000003,2012,Count,Children,16248,All
+S92000003,2009,Count,Children,1580,Residential Care
+S92000003,2010,Count,Children,15892,All
+S12000049,2015,Count,Children,297,Residential Care
+S12000040,2016,Count,Children,162,Foster / Prospective Adopters
+S12000040,2015,Count,Children,108,Other Community Placement
+S12000040,2016,Count,Children,125,Other Community Placement
+S12000040,2017,Count,Children,187,Foster / Prospective Adopters
+S12000040,2012,Count,Children,149,At Home
+S12000040,2017,Count,Children,511,All
+S12000040,2015,Count,Children,126,At Home
+S12000050,2011,Count,Children,41,Residential Care
+S12000050,2017,Count,Children,306,Other Community Placement
+S12000050,2015,Count,Children,39,Residential Care
+S12000040,2011,Count,Children,72,Other Community Placement
+S12000040,2018,Count,Children,158,Foster / Prospective Adopters
+S12000040,2012,Count,Children,418,All
+S12000040,2014,Count,Children,48,Residential Care
+S12000040,2010,Count,Children,450,All
+S12000040,2009,Count,Children,406,All
+S12000050,2009,Count,Children,104,Other Community Placement
+S12000040,2016,Count,Children,45,Residential Care
+S12000040,2012,Count,Children,85,Other Community Placement
+S12000040,2015,Count,Children,45,Residential Care
+S12000050,2012,Count,Children,38,Residential Care
+S12000040,2013,Count,Children,114,Other Community Placement
+S12000040,2011,Count,Children,55,Residential Care
+S12000050,2010,Count,Children,32,Residential Care
+S12000040,2014,Count,Children,415,All
+S12000040,2011,Count,Children,170,At Home
+S12000040,2011,Count,Children,150,Foster / Prospective Adopters
+S92000003,2016,Count,Children,15317,All
+S92000003,2011,Count,Children,5476,At Home
+S92000003,2014,Count,Children,1467,Residential Care
+S12000050,2018,Count,Children,320,Other Community Placement
+S92000003,2018,Count,Children,5247,Foster / Prospective Adopters
+S12000050,2015,Count,Children,227,Other Community Placement
+S92000003,2012,Count,Children,5153,At Home
+S12000050,2014,Count,Children,34,Residential Care
+S92000003,2018,Count,Children,1518,Residential Care
+S92000003,2017,Count,Children,1509,Residential Care
+S92000003,2016,Count,Children,5645,Foster / Prospective Adopters
+S92000003,2009,Count,Children,5924,At Home
+S12000050,2017,Count,Children,139,Foster / Prospective Adopters
+S12000050,2013,Count,Children,185,Other Community Placement
+S92000003,2017,Count,Children,4173,Other Community Placement
+S12000040,2009,Count,Children,57,Other Community Placement
+S92000003,2014,Count,Children,15600,All
+S12000050,2010,Count,Children,0,Other Community Placement
+S12000040,2013,Count,Children,49,Residential Care
+S12000040,2017,Count,Children,137,Other Community Placement
+S12000040,2010,Count,Children,77,Other Community Placement
+S92000003,2015,Count,Children,4206,Other Community Placement
+S12000050,2013,Count,Children,36,Residential Care
+S92000003,2011,Count,Children,5335,Foster / Prospective Adopters
+S92000003,2014,Count,Children,4268,Other Community Placement
+S12000050,2009,Count,Children,44,Residential Care
+S92000003,2011,Count,Children,3959,Other Community Placement
+S12000047,2010,Count,Children,339,Foster / Prospective Adopters
+S12000011,2012,Count,Children,174,All
+S12000011,2009,Count,Children,88,At Home
+S12000047,2009,Count,Children,344,Foster / Prospective Adopters
+S12000011,2013,Count,Children,10,Residential Care
+S12000011,2017,Count,Children,44,At Home
+S12000014,2014,Count,Children,114,At Home
+S12000011,2015,Count,Children,146,All
+S12000014,2011,Count,Children,67,Other Community Placement
+S12000011,2016,Count,Children,65,At Home
+S12000011,2011,Count,Children,154,All
+S12000014,2010,Count,Children,92,Other Community Placement
+S12000045,2009,Count,Children,31,Foster / Prospective Adopters
+S12000045,2014,Count,Children,44,Other Community Placement
+S12000011,2011,Count,Children,7,Residential Care
+S12000047,2010,Count,Children,168,Other Community Placement
+S12000011,2017,Count,Children,117,All
+S12000011,2014,Count,Children,26,Other Community Placement
+S12000047,2011,Count,Children,372,Foster / Prospective Adopters
+S12000014,2017,Count,Children,60,Residential Care
+S12000014,2014,Count,Children,68,Residential Care
+S12000047,2009,Count,Children,154,Other Community Placement
+S12000011,2011,Count,Children,32,Other Community Placement
+S12000011,2016,Count,Children,130,All
+S12000014,2014,Count,Children,153,Foster / Prospective Adopters
+S12000047,2012,Count,Children,56,Residential Care
+S12000047,2011,Count,Children,59,Residential Care
+S12000014,2016,Count,Children,373,All
+S12000047,2015,Count,Children,194,Other Community Placement
+S12000047,2018,Count,Children,941,All
+S12000047,2011,Count,Children,198,Other Community Placement
+S12000047,2016,Count,Children,981,All
+S12000047,2014,Count,Children,205,Other Community Placement
+S12000011,2014,Count,Children,175,All
+S12000011,2013,Count,Children,34,Other Community Placement
+S12000011,2010,Count,Children,33,Foster / Prospective Adopters
+S12000047,2016,Count,Children,204,Other Community Placement
+S12000011,2011,Count,Children,25,Foster / Prospective Adopters
+S12000014,2017,Count,Children,381,All
+S12000014,2012,Count,Children,118,Foster / Prospective Adopters
+S12000047,2018,Count,Children,167,Other Community Placement
+S12000045,2016,Count,Children,56,Other Community Placement
+S12000011,2010,Count,Children,34,Other Community Placement
+S12000014,2016,Count,Children,123,At Home
+S12000011,2014,Count,Children,13,Residential Care
+S12000047,2016,Count,Children,477,Foster / Prospective Adopters
+S12000011,2013,Count,Children,113,At Home
+S12000014,2015,Count,Children,32,Other Community Placement
+S12000011,2010,Count,Children,151,All
+S12000045,2015,Count,Children,56,Other Community Placement
+S12000011,2016,Count,Children,34,Other Community Placement
+S12000011,2016,Count,Children,6,Residential Care
+S12000045,2014,Count,Children,38,Foster / Prospective Adopters
+S12000011,2009,Count,Children,29,Other Community Placement
+S12000011,2013,Count,Children,187,All
+S12000011,2015,Count,Children,37,Other Community Placement
+S12000011,2017,Count,Children,34,Other Community Placement
+S12000011,2009,Count,Children,35,Foster / Prospective Adopters
+S12000014,2017,Count,Children,120,At Home
+S12000011,2016,Count,Children,25,Foster / Prospective Adopters
+S12000011,2015,Count,Children,28,Foster / Prospective Adopters
+S12000014,2011,Count,Children,171,At Home
+S12000047,2013,Count,Children,442,Foster / Prospective Adopters
+S12000011,2009,Count,Children,159,All
+S12000014,2016,Count,Children,48,Residential Care
+S12000014,2018,Count,Children,124,At Home
+S12000014,2015,Count,Children,155,Foster / Prospective Adopters
+S12000045,2013,Count,Children,50,Other Community Placement
+S12000045,2010,Count,Children,38,Foster / Prospective Adopters
+S12000011,2011,Count,Children,90,At Home
+S12000014,2013,Count,Children,147,At Home
+S12000011,2013,Count,Children,30,Foster / Prospective Adopters
+S12000047,2014,Count,Children,507,Foster / Prospective Adopters
+S12000047,2018,Count,Children,178,At Home
+S12000011,2010,Count,Children,80,At Home
+S12000011,2012,Count,Children,95,At Home
+S12000011,2018,Count,Children,110,All
+S12000011,2018,Count,Children,31,Foster / Prospective Adopters
+S12000011,2018,Count,Children,41,At Home
+S12000011,2014,Count,Children,30,Foster / Prospective Adopters
+S12000011,2017,Count,Children,29,Foster / Prospective Adopters
+S12000011,2012,Count,Children,34,Foster / Prospective Adopters
+S12000014,2012,Count,Children,430,All
+S12000047,2016,Count,Children,190,At Home
+S12000011,2012,Count,Children,31,Other Community Placement
+S12000014,2009,Count,Children,59,Residential Care
+S12000013,2018,Count,Children,5,Residential Care
+S12000013,2014,Count,Children,22,At Home
+S12000013,2013,Count,Children,13,Residential Care
+S12000047,2009,Count,Children,799,All
+S12000013,2011,Count,Children,9,Residential Care
+S12000047,2011,Count,Children,823,All
+S12000047,2013,Count,Children,182,Other Community Placement
+S12000013,2011,Count,Children,19,Foster / Prospective Adopters
+S12000047,2011,Count,Children,194,At Home
+S12000013,2010,Count,Children,11,Other Community Placement
+S12000013,2012,Count,Children,18,At Home
+S12000013,2017,Count,Children,6,Residential Care
+S12000013,2014,Count,Children,49,All
+S12000013,2017,Count,Children,24,At Home
+S12000047,2017,Count,Children,173,Other Community Placement
+S12000047,2014,Count,Children,120,At Home
+S12000047,2018,Count,Children,131,Residential Care
+S12000013,2016,Count,Children,5,Residential Care
+S12000047,2014,Count,Children,933,All
+S12000013,2018,Count,Children,41,All
+S12000013,2015,Count,Children,16,At Home
+S12000047,2013,Count,Children,165,At Home
+S12000013,2013,Count,Children,22,At Home
+S12000013,2014,Count,Children,12,Residential Care
+S12000013,2016,Count,Children,37,All
+S12000013,2009,Count,Children,9,Residential Care
+S12000013,2014,Count,Children,10,Foster / Prospective Adopters
+S12000013,2009,Count,Children,14,Other Community Placement
+S12000013,2013,Count,Children,61,All
+S12000013,2016,Count,Children,14,At Home
+S12000047,2010,Count,Children,790,All
+S12000013,2017,Count,Children,11,Foster / Prospective Adopters
+S12000013,2015,Count,Children,11,Foster / Prospective Adopters
+S12000047,2013,Count,Children,872,All
+S12000047,2012,Count,Children,855,All
+S12000013,2010,Count,Children,11,Residential Care
+S12000013,2017,Count,Children,6,Other Community Placement
+S12000013,2012,Count,Children,6,Other Community Placement
+S12000047,2015,Count,Children,142,Residential Care
+S12000013,2016,Count,Children,10,Foster / Prospective Adopters
+S12000047,2009,Count,Children,71,Residential Care
+S12000013,2011,Count,Children,8,Other Community Placement
+S12000047,2015,Count,Children,1023,All
+S12000014,2015,Count,Children,364,All
+S12000014,2010,Count,Children,443,All
+S12000047,2017,Count,Children,942,All
+S12000013,2018,Count,Children,5,Other Community Placement
+S12000013,2013,Count,Children,15,Foster / Prospective Adopters
+S12000013,2010,Count,Children,22,At Home
+S12000013,2009,Count,Children,13,At Home
+S12000013,2010,Count,Children,59,All
+S12000013,2010,Count,Children,15,Foster / Prospective Adopters
+S12000047,2018,Count,Children,465,Foster / Prospective Adopters
+S12000013,2017,Count,Children,47,All
+S12000013,2009,Count,Children,48,All
+S12000014,2013,Count,Children,47,Other Community Placement
+S12000013,2015,Count,Children,47,All
+S12000013,2009,Count,Children,12,Foster / Prospective Adopters
+S12000013,2015,Count,Children,12,Residential Care
+S12000013,2018,Count,Children,9,Foster / Prospective Adopters
+S12000047,2010,Count,Children,223,At Home
+S12000013,2011,Count,Children,55,All
+S12000013,2012,Count,Children,19,Foster / Prospective Adopters
+S12000014,2009,Count,Children,168,At Home
+S12000014,2011,Count,Children,109,Foster / Prospective Adopters
+S12000047,2009,Count,Children,230,At Home
+S12000014,2012,Count,Children,55,Residential Care
+S12000014,2009,Count,Children,437,All
+S12000047,2012,Count,Children,189,At Home
+S12000014,2013,Count,Children,375,All
+S12000047,2017,Count,Children,175,At Home
+S12000013,2013,Count,Children,11,Other Community Placement
+S12000014,2010,Count,Children,184,At Home
+S12000013,2012,Count,Children,11,Residential Care
+S12000047,2015,Count,Children,171,At Home
+S12000013,2012,Count,Children,54,All
+S12000013,2016,Count,Children,8,Other Community Placement
+S12000013,2018,Count,Children,22,At Home
+S12000013,2015,Count,Children,8,Other Community Placement
+S12000014,2011,Count,Children,52,Residential Care
+S12000047,2010,Count,Children,60,Residential Care
+S12000014,2015,Count,Children,118,At Home
+S12000014,2014,Count,Children,370,All
+S12000013,2014,Count,Children,5,Other Community Placement
+S12000047,2012,Count,Children,192,Other Community Placement
+S12000013,2011,Count,Children,19,At Home
+S12000010,2017,Count,Children,98,Foster / Prospective Adopters
+S12000045,2011,Count,Children,35,Foster / Prospective Adopters
+S12000045,2018,Count,Children,47,Foster / Prospective Adopters
+S12000017,2013,Count,Children,92,Other Community Placement
+S12000010,2015,Count,Children,57,At Home
+S12000045,2012,Count,Children,162,All
+S12000048,2014,Count,Children,98,Foster / Prospective Adopters
+S12000045,2017,Count,Children,162,All
+S12000010,2012,Count,Children,90,Foster / Prospective Adopters
+S12000014,2017,Count,Children,50,Other Community Placement
+S12000010,2016,Count,Children,229,All
+S12000010,2014,Count,Children,25,Residential Care
+S12000010,2016,Count,Children,73,At Home
+S12000010,2018,Count,Children,77,At Home
+S12000010,2012,Count,Children,23,Other Community Placement
+S12000010,2009,Count,Children,24,Residential Care
+S12000010,2018,Count,Children,245,All
+S12000048,2014,Count,Children,246,All
+S12000014,2018,Count,Children,368,All
+S12000010,2016,Count,Children,92,Foster / Prospective Adopters
+S12000010,2013,Count,Children,93,Foster / Prospective Adopters
+S12000048,2012,Count,Children,81,Foster / Prospective Adopters
+S12000010,2015,Count,Children,19,Residential Care
+S12000010,2011,Count,Children,82,Foster / Prospective Adopters
+S12000010,2011,Count,Children,23,Residential Care
+S12000048,2015,Count,Children,255,All
+S12000010,2017,Count,Children,69,At Home
+S12000010,2012,Count,Children,24,Residential Care
+S12000010,2010,Count,Children,19,Residential Care
+S12000048,2015,Count,Children,109,Foster / Prospective Adopters
+S12000014,2013,Count,Children,58,Residential Care
+S12000010,2017,Count,Children,24,Residential Care
+S12000045,2016,Count,Children,164,All
+S12000010,2016,Count,Children,18,Residential Care
+S12000010,2014,Count,Children,209,All
+S12000014,2011,Count,Children,399,All
+S12000010,2014,Count,Children,94,Foster / Prospective Adopters
+S12000010,2015,Count,Children,90,Foster / Prospective Adopters
+S12000045,2015,Count,Children,173,All
+S12000010,2010,Count,Children,210,All
+S12000014,2009,Count,Children,135,Foster / Prospective Adopters
+S12000010,2013,Count,Children,199,All
+S12000048,2013,Count,Children,237,All
+S12000048,2012,Count,Children,223,All
+S12000010,2014,Count,Children,58,At Home
+S12000014,2016,Count,Children,156,Foster / Prospective Adopters
+S12000048,2010,Count,Children,201,All
+S12000014,2017,Count,Children,151,Foster / Prospective Adopters
+S12000010,2018,Count,Children,32,Residential Care
+S12000010,2017,Count,Children,51,Other Community Placement
+S12000017,2015,Count,Children,72,Other Community Placement
+S12000010,2016,Count,Children,46,Other Community Placement
+S12000010,2009,Count,Children,202,All
+S12000014,2018,Count,Children,49,Other Community Placement
+S12000010,2011,Count,Children,200,All
+S12000017,2012,Count,Children,92,Other Community Placement
+S12000010,2013,Count,Children,48,At Home
+S12000010,2009,Count,Children,78,At Home
+S12000048,2009,Count,Children,197,All
+S12000045,2018,Count,Children,140,All
+S12000045,2017,Count,Children,49,Foster / Prospective Adopters
+S12000014,2010,Count,Children,120,Foster / Prospective Adopters
+S12000010,2018,Count,Children,93,Foster / Prospective Adopters
+S12000010,2018,Count,Children,43,Other Community Placement
+S12000048,2011,Count,Children,78,Foster / Prospective Adopters
+S12000014,2009,Count,Children,75,Other Community Placement
+S12000014,2018,Count,Children,132,Foster / Prospective Adopters
+S12000045,2012,Count,Children,19,Residential Care
+S12000045,2012,Count,Children,35,Foster / Prospective Adopters
+S12000045,2013,Count,Children,29,Foster / Prospective Adopters
+S12000011,2015,Count,Children,8,Residential Care
+S12000017,2015,Count,Children,437,All
+S12000045,2015,Count,Children,21,Residential Care
+S12000014,2016,Count,Children,46,Other Community Placement
+S12000047,2016,Count,Children,110,Residential Care
+S12000047,2013,Count,Children,83,Residential Care
+S12000010,2010,Count,Children,74,At Home
+S12000045,2011,Count,Children,39,Other Community Placement
+S12000014,2018,Count,Children,63,Residential Care
+S12000047,2017,Count,Children,468,Foster / Prospective Adopters
+S12000048,2016,Count,Children,129,Foster / Prospective Adopters
+S12000014,2012,Count,Children,198,At Home
+S12000048,2016,Count,Children,286,All
+S12000010,2015,Count,Children,210,All
+S12000045,2017,Count,Children,55,Other Community Placement
+S12000011,2014,Count,Children,106,At Home
+S12000014,2015,Count,Children,59,Residential Care
+S12000045,2010,Count,Children,21,Residential Care
+S12000011,2018,Count,Children,7,Residential Care
+S12000010,2015,Count,Children,44,Other Community Placement
+S12000045,2009,Count,Children,23,Residential Care
+S12000047,2012,Count,Children,418,Foster / Prospective Adopters
+S12000011,2009,Count,Children,7,Residential Care
+S12000010,2011,Count,Children,58,At Home
+S12000011,2018,Count,Children,31,Other Community Placement
+S12000014,2010,Count,Children,47,Residential Care
+S12000011,2015,Count,Children,73,At Home
+S12000010,2010,Count,Children,67,Foster / Prospective Adopters
+S12000011,2012,Count,Children,14,Residential Care
+S12000010,2009,Count,Children,60,Foster / Prospective Adopters
+S12000047,2015,Count,Children,516,Foster / Prospective Adopters
+S12000048,2012,Count,Children,66,Other Community Placement
+S12000045,2015,Count,Children,45,Foster / Prospective Adopters
+S12000047,2017,Count,Children,126,Residential Care
+S12000017,2013,Count,Children,462,All
+S12000048,2017,Count,Children,117,Foster / Prospective Adopters
+S12000047,2014,Count,Children,101,Residential Care
+S12000048,2009,Count,Children,84,Foster / Prospective Adopters
+S12000048,2013,Count,Children,98,Foster / Prospective Adopters
+S12000048,2016,Count,Children,80,Other Community Placement
+S12000017,2018,Count,Children,153,At Home
+S12000010,2013,Count,Children,28,Residential Care
+S12000045,2013,Count,Children,148,All
+S12000010,2017,Count,Children,242,All
+S12000017,2011,Count,Children,91,Other Community Placement
+S12000014,2012,Count,Children,59,Other Community Placement
+S12000014,2013,Count,Children,123,Foster / Prospective Adopters
+S12000011,2017,Count,Children,10,Residential Care
+S12000010,2011,Count,Children,37,Other Community Placement
+S12000014,2014,Count,Children,35,Other Community Placement
+S12000036,2010,Ratio,"Per 1,000 Children",16.43,All
+S12000042,2012,Ratio,"Per 1,000 Children",9.7,Foster / Prospective Adopters
+S12000042,2014,Ratio,"Per 1,000 Children",1.22,Residential Care
+S12000050,2014,Ratio,"Per 1,000 Children",0.47,Residential Care
+S12000045,2015,Ratio,"Per 1,000 Children",8.15,All
+S12000050,2014,Ratio,"Per 1,000 Children",3.04,Other Community Placement
+S12000050,2010,Ratio,"Per 1,000 Children",0.0,Other Community Placement
+S12000035,2012,Ratio,"Per 1,000 Children",1.48,Residential Care
+S12000035,2014,Ratio,"Per 1,000 Children",2.81,Other Community Placement
+S12000047,2009,Ratio,"Per 1,000 Children",10.9,All
+S12000036,2014,Ratio,"Per 1,000 Children",16.8,All
+S12000036,2015,Ratio,"Per 1,000 Children",16.69,All
+S12000035,2009,Ratio,"Per 1,000 Children",12.06,All
+S12000045,2009,Ratio,"Per 1,000 Children",1.05,Residential Care
+S12000035,2016,Ratio,"Per 1,000 Children",10.64,All
+S12000035,2017,Ratio,"Per 1,000 Children",11.56,All
+S12000036,2013,Ratio,"Per 1,000 Children",16.79,All
+S12000050,2009,Ratio,"Per 1,000 Children",5.71,At Home
+S12000045,2013,Ratio,"Per 1,000 Children",1.38,Foster / Prospective Adopters
+S12000047,2018,Ratio,"Per 1,000 Children",13.05,All
+S12000047,2017,Ratio,"Per 1,000 Children",13.02,All
+S12000036,2016,Ratio,"Per 1,000 Children",16.09,All
+S12000050,2009,Ratio,"Per 1,000 Children",0.6,Residential Care
+S12000042,2010,Ratio,"Per 1,000 Children",7.5,Other Community Placement
+S12000042,2009,Ratio,"Per 1,000 Children",6.8,Other Community Placement
+S12000050,2011,Ratio,"Per 1,000 Children",4.74,At Home
+S12000036,2012,Ratio,"Per 1,000 Children",1.25,Residential Care
+S12000050,2015,Ratio,"Per 1,000 Children",3.18,Other Community Placement
+S12000036,2012,Ratio,"Per 1,000 Children",16.91,All
+S12000035,2011,Ratio,"Per 1,000 Children",13.22,All
+S12000050,2018,Ratio,"Per 1,000 Children",10.67,All
+S12000050,2009,Ratio,"Per 1,000 Children",9.89,All
+S12000035,2015,Ratio,"Per 1,000 Children",1.44,Residential Care
+S12000036,2009,Ratio,"Per 1,000 Children",16.52,All
+S12000050,2010,Ratio,"Per 1,000 Children",10.92,All
+S12000042,2018,Ratio,"Per 1,000 Children",19.41,All
+S12000035,2013,Ratio,"Per 1,000 Children",4.71,At Home
+S12000045,2015,Ratio,"Per 1,000 Children",2.4,At Home
+S12000050,2015,Ratio,"Per 1,000 Children",9.75,All
+S12000036,2013,Ratio,"Per 1,000 Children",1.25,Residential Care
+S12000047,2010,Ratio,"Per 1,000 Children",0.82,Residential Care
+S12000050,2012,Ratio,"Per 1,000 Children",10.02,All
+S12000045,2014,Ratio,"Per 1,000 Children",2.09,Other Community Placement
+S12000045,2018,Ratio,"Per 1,000 Children",6.47,All
+S12000050,2010,Ratio,"Per 1,000 Children",0.44,Residential Care
+S12000050,2015,Ratio,"Per 1,000 Children",0.55,Residential Care
+S12000042,2013,Ratio,"Per 1,000 Children",9.79,Foster / Prospective Adopters
+S12000035,2018,Ratio,"Per 1,000 Children",10.11,All
+S12000050,2013,Ratio,"Per 1,000 Children",2.36,Foster / Prospective Adopters
+S12000045,2012,Ratio,"Per 1,000 Children",2.73,At Home
+S12000035,2010,Ratio,"Per 1,000 Children",2.51,Residential Care
+S12000050,2010,Ratio,"Per 1,000 Children",8.65,At Home
+S12000045,2010,Ratio,"Per 1,000 Children",1.76,Foster / Prospective Adopters
+S12000050,2014,Ratio,"Per 1,000 Children",3.91,At Home
+S12000045,2014,Ratio,"Per 1,000 Children",2.33,At Home
+S12000045,2012,Ratio,"Per 1,000 Children",2.35,Other Community Placement
+S12000035,2015,Ratio,"Per 1,000 Children",3.13,At Home
+S12000050,2011,Ratio,"Per 1,000 Children",2.5,Foster / Prospective Adopters
+S12000050,2009,Ratio,"Per 1,000 Children",2.17,Foster / Prospective Adopters
+S12000050,2012,Ratio,"Per 1,000 Children",2.46,Foster / Prospective Adopters
+S12000035,2012,Ratio,"Per 1,000 Children",3.46,Other Community Placement
+S12000050,2011,Ratio,"Per 1,000 Children",2.23,Other Community Placement
+S12000045,2009,Ratio,"Per 1,000 Children",1.37,Other Community Placement
+S12000045,2010,Ratio,"Per 1,000 Children",0.97,Residential Care
+S12000045,2013,Ratio,"Per 1,000 Children",2.38,Other Community Placement
+S12000035,2012,Ratio,"Per 1,000 Children",11.75,All
+S12000035,2009,Ratio,"Per 1,000 Children",2.42,Residential Care
+S12000045,2009,Ratio,"Per 1,000 Children",1.41,Foster / Prospective Adopters
+S12000035,2011,Ratio,"Per 1,000 Children",4.29,At Home
+S12000045,2010,Ratio,"Per 1,000 Children",1.43,Other Community Placement
+S12000035,2012,Ratio,"Per 1,000 Children",3.52,At Home
+S12000035,2011,Ratio,"Per 1,000 Children",3.08,Foster / Prospective Adopters
+S12000035,2009,Ratio,"Per 1,000 Children",2.01,Other Community Placement
+S12000045,2010,Ratio,"Per 1,000 Children",2.08,At Home
+S12000050,2014,Ratio,"Per 1,000 Children",2.37,Foster / Prospective Adopters
+S12000045,2012,Ratio,"Per 1,000 Children",7.61,All
+S12000035,2010,Ratio,"Per 1,000 Children",14.94,All
+S12000045,2013,Ratio,"Per 1,000 Children",7.04,All
+S12000035,2013,Ratio,"Per 1,000 Children",3.33,Other Community Placement
+S12000045,2015,Ratio,"Per 1,000 Children",0.99,Residential Care
+S12000050,2010,Ratio,"Per 1,000 Children",1.83,Foster / Prospective Adopters
+S12000035,2010,Ratio,"Per 1,000 Children",3.83,Other Community Placement
+S12000050,2012,Ratio,"Per 1,000 Children",5.12,At Home
+S12000045,2009,Ratio,"Per 1,000 Children",5.88,All
+S12000035,2013,Ratio,"Per 1,000 Children",12.55,All
+S12000035,2015,Ratio,"Per 1,000 Children",2.61,Other Community Placement
+S12000045,2015,Ratio,"Per 1,000 Children",2.12,Foster / Prospective Adopters
+S12000050,2013,Ratio,"Per 1,000 Children",4.89,At Home
+S12000035,2011,Ratio,"Per 1,000 Children",4.05,Other Community Placement
+S12000045,2015,Ratio,"Per 1,000 Children",2.64,Other Community Placement
+S12000045,2011,Ratio,"Per 1,000 Children",1.63,Foster / Prospective Adopters
+S12000035,2014,Ratio,"Per 1,000 Children",1.53,Residential Care
+S12000045,2012,Ratio,"Per 1,000 Children",1.64,Foster / Prospective Adopters
+S12000042,2014,Ratio,"Per 1,000 Children",6.85,Other Community Placement
+S12000035,2011,Ratio,"Per 1,000 Children",1.81,Residential Care
+S12000047,2012,Ratio,"Per 1,000 Children",2.59,At Home
+S12000035,2013,Ratio,"Per 1,000 Children",1.44,Residential Care
+S12000045,2014,Ratio,"Per 1,000 Children",7.31,All
+S12000035,2010,Ratio,"Per 1,000 Children",5.68,At Home
+S12000047,2013,Ratio,"Per 1,000 Children",2.27,At Home
+S12000045,2009,Ratio,"Per 1,000 Children",2.05,At Home
+S12000045,2017,Ratio,"Per 1,000 Children",7.59,All
+S12000045,2011,Ratio,"Per 1,000 Children",6.76,All
+S12000045,2013,Ratio,"Per 1,000 Children",2.33,At Home
+S12000047,2011,Ratio,"Per 1,000 Children",2.7,Other Community Placement
+S12000050,2016,Ratio,"Per 1,000 Children",10.7,All
+S12000042,2015,Ratio,"Per 1,000 Children",5.1,Other Community Placement
+S12000050,2011,Ratio,"Per 1,000 Children",0.56,Residential Care
+S12000050,2017,Ratio,"Per 1,000 Children",10.83,All
+S12000050,2011,Ratio,"Per 1,000 Children",10.04,All
+S12000042,2015,Ratio,"Per 1,000 Children",21.77,All
+S12000042,2017,Ratio,"Per 1,000 Children",20.76,All
+S12000050,2013,Ratio,"Per 1,000 Children",2.55,Other Community Placement
+S12000035,2009,Ratio,"Per 1,000 Children",5.26,At Home
+S12000045,2016,Ratio,"Per 1,000 Children",7.73,All
+S12000050,2012,Ratio,"Per 1,000 Children",0.52,Residential Care
+S12000035,2015,Ratio,"Per 1,000 Children",10.9,All
+S12000045,2010,Ratio,"Per 1,000 Children",6.25,All
+S12000035,2012,Ratio,"Per 1,000 Children",3.28,Foster / Prospective Adopters
+S12000045,2011,Ratio,"Per 1,000 Children",2.14,At Home
+S12000050,2012,Ratio,"Per 1,000 Children",1.92,Other Community Placement
+S12000035,2014,Ratio,"Per 1,000 Children",11.19,All
+S12000050,2015,Ratio,"Per 1,000 Children",2.31,Foster / Prospective Adopters
+S12000050,2014,Ratio,"Per 1,000 Children",9.8,All
+S12000050,2013,Ratio,"Per 1,000 Children",10.3,All
+S12000045,2011,Ratio,"Per 1,000 Children",1.82,Other Community Placement
+S12000035,2015,Ratio,"Per 1,000 Children",3.72,Foster / Prospective Adopters
+S12000047,2013,Ratio,"Per 1,000 Children",2.5,Other Community Placement
+S12000045,2012,Ratio,"Per 1,000 Children",0.89,Residential Care
+S12000045,2014,Ratio,"Per 1,000 Children",1.8,Foster / Prospective Adopters
+S12000035,2009,Ratio,"Per 1,000 Children",2.36,Foster / Prospective Adopters
+S12000050,2009,Ratio,"Per 1,000 Children",1.41,Other Community Placement
+S12000050,2015,Ratio,"Per 1,000 Children",3.72,At Home
+S12000045,2014,Ratio,"Per 1,000 Children",1.09,Residential Care
+S12000045,2011,Ratio,"Per 1,000 Children",1.17,Residential Care
+S12000045,2013,Ratio,"Per 1,000 Children",0.95,Residential Care
+S12000035,2010,Ratio,"Per 1,000 Children",2.93,Foster / Prospective Adopters
+S12000035,2014,Ratio,"Per 1,000 Children",3.33,At Home
+S12000038,2010,Ratio,"Per 1,000 Children",2.23,Residential Care
+S12000041,2010,Ratio,"Per 1,000 Children",0.69,Residential Care
+S12000048,2013,Ratio,"Per 1,000 Children",0.53,Residential Care
+S12000041,2014,Ratio,"Per 1,000 Children",1.55,Other Community Placement
+S12000047,2013,Ratio,"Per 1,000 Children",6.08,Foster / Prospective Adopters
+S12000048,2011,Ratio,"Per 1,000 Children",0.63,Residential Care
+S12000038,2009,Ratio,"Per 1,000 Children",2.75,Residential Care
+S12000038,2013,Ratio,"Per 1,000 Children",22.71,All
+S12000038,2012,Ratio,"Per 1,000 Children",2.03,Residential Care
+S12000048,2014,Ratio,"Per 1,000 Children",1.35,At Home
+S12000048,2015,Ratio,"Per 1,000 Children",1.56,At Home
+S12000038,2014,Ratio,"Per 1,000 Children",6.77,At Home
+S12000041,2013,Ratio,"Per 1,000 Children",0.75,Residential Care
+S12000041,2016,Ratio,"Per 1,000 Children",10.65,All
+S12000041,2011,Ratio,"Per 1,000 Children",0.69,Residential Care
+S12000041,2014,Ratio,"Per 1,000 Children",0.71,Residential Care
+S12000048,2014,Ratio,"Per 1,000 Children",3.23,Other Community Placement
+S12000038,2015,Ratio,"Per 1,000 Children",1.51,Residential Care
+S12000048,2011,Ratio,"Per 1,000 Children",2.71,Foster / Prospective Adopters
+S12000038,2011,Ratio,"Per 1,000 Children",2.13,Residential Care
+S12000038,2011,Ratio,"Per 1,000 Children",22.15,All
+S12000038,2013,Ratio,"Per 1,000 Children",2.22,Residential Care
+S12000048,2015,Ratio,"Per 1,000 Children",2.9,Other Community Placement
+S12000048,2013,Ratio,"Per 1,000 Children",3.46,Foster / Prospective Adopters
+S12000038,2009,Ratio,"Per 1,000 Children",4.05,Other Community Placement
+S12000048,2014,Ratio,"Per 1,000 Children",0.67,Residential Care
+S12000048,2009,Ratio,"Per 1,000 Children",6.84,All
+S12000048,2010,Ratio,"Per 1,000 Children",1.46,Other Community Placement
+S12000038,2014,Ratio,"Per 1,000 Children",1.76,Residential Care
+S12000038,2013,Ratio,"Per 1,000 Children",7.58,Foster / Prospective Adopters
+S12000049,2011,Ratio,"Per 1,000 Children",2.22,Residential Care
+S12000049,2009,Ratio,"Per 1,000 Children",9.07,Foster / Prospective Adopters
+S12000049,2009,Ratio,"Per 1,000 Children",12.31,At Home
+S12000049,2012,Ratio,"Per 1,000 Children",34.44,All
+S12000047,2011,Ratio,"Per 1,000 Children",2.65,At Home
+S12000049,2015,Ratio,"Per 1,000 Children",12.41,Other Community Placement
+S12000049,2016,Ratio,"Per 1,000 Children",30.09,All
+S12000042,2010,Ratio,"Per 1,000 Children",6.69,At Home
+S12000049,2012,Ratio,"Per 1,000 Children",9.0,At Home
+S12000042,2010,Ratio,"Per 1,000 Children",23.41,All
+S12000038,2012,Ratio,"Per 1,000 Children",7.81,At Home
+S12000049,2011,Ratio,"Per 1,000 Children",35.37,All
+S12000042,2011,Ratio,"Per 1,000 Children",7.93,Other Community Placement
+S12000042,2014,Ratio,"Per 1,000 Children",22.86,All
+S12000038,2014,Ratio,"Per 1,000 Children",20.89,All
+S12000038,2012,Ratio,"Per 1,000 Children",7.37,Foster / Prospective Adopters
+S12000047,2014,Ratio,"Per 1,000 Children",1.4,Residential Care
+S12000041,2015,Ratio,"Per 1,000 Children",0.63,Residential Care
+S12000038,2009,Ratio,"Per 1,000 Children",6.43,Foster / Prospective Adopters
+S12000049,2017,Ratio,"Per 1,000 Children",25.64,All
+S12000038,2011,Ratio,"Per 1,000 Children",7.17,Foster / Prospective Adopters
+S12000041,2012,Ratio,"Per 1,000 Children",0.66,Residential Care
+S12000047,2013,Ratio,"Per 1,000 Children",1.14,Residential Care
+S12000049,2014,Ratio,"Per 1,000 Children",12.49,Other Community Placement
+S12000047,2015,Ratio,"Per 1,000 Children",1.96,Residential Care
+S12000047,2015,Ratio,"Per 1,000 Children",7.13,Foster / Prospective Adopters
+S12000049,2015,Ratio,"Per 1,000 Children",31.15,All
+S12000042,2015,Ratio,"Per 1,000 Children",5.06,At Home
+S12000038,2010,Ratio,"Per 1,000 Children",6.68,Foster / Prospective Adopters
+S12000038,2012,Ratio,"Per 1,000 Children",5.6,Other Community Placement
+S12000041,2015,Ratio,"Per 1,000 Children",11.68,All
+S12000048,2011,Ratio,"Per 1,000 Children",6.99,All
+S12000048,2009,Ratio,"Per 1,000 Children",0.31,Residential Care
+S12000048,2011,Ratio,"Per 1,000 Children",1.7,At Home
+S12000041,2009,Ratio,"Per 1,000 Children",3.04,At Home
+S12000041,2010,Ratio,"Per 1,000 Children",2.4,Other Community Placement
+S12000048,2013,Ratio,"Per 1,000 Children",2.61,Other Community Placement
+S12000041,2010,Ratio,"Per 1,000 Children",2.27,At Home
+S12000041,2013,Ratio,"Per 1,000 Children",1.42,Other Community Placement
+S12000041,2014,Ratio,"Per 1,000 Children",12.08,All
+S12000048,2009,Ratio,"Per 1,000 Children",1.08,Other Community Placement
+S12000041,2012,Ratio,"Per 1,000 Children",3.33,At Home
+S12000041,2009,Ratio,"Per 1,000 Children",1.63,Other Community Placement
+S12000048,2015,Ratio,"Per 1,000 Children",0.71,Residential Care
+S12000048,2014,Ratio,"Per 1,000 Children",8.73,All
+S12000041,2012,Ratio,"Per 1,000 Children",5.57,Foster / Prospective Adopters
+S12000048,2010,Ratio,"Per 1,000 Children",2.81,Foster / Prospective Adopters
+S12000048,2009,Ratio,"Per 1,000 Children",2.92,Foster / Prospective Adopters
+S12000041,2013,Ratio,"Per 1,000 Children",5.97,Foster / Prospective Adopters
+S12000041,2014,Ratio,"Per 1,000 Children",5.73,Foster / Prospective Adopters
+S12000041,2012,Ratio,"Per 1,000 Children",11.32,All
+S12000041,2010,Ratio,"Per 1,000 Children",6.39,Foster / Prospective Adopters
+S12000048,2012,Ratio,"Per 1,000 Children",2.31,Other Community Placement
+S12000048,2011,Ratio,"Per 1,000 Children",1.95,Other Community Placement
+S12000041,2015,Ratio,"Per 1,000 Children",5.28,Foster / Prospective Adopters
+S12000041,2013,Ratio,"Per 1,000 Children",11.19,All
+S12000041,2011,Ratio,"Per 1,000 Children",5.79,Foster / Prospective Adopters
+S12000048,2012,Ratio,"Per 1,000 Children",7.81,All
+S12000041,2014,Ratio,"Per 1,000 Children",4.08,At Home
+S12000041,2009,Ratio,"Per 1,000 Children",5.82,Foster / Prospective Adopters
+S12000048,2013,Ratio,"Per 1,000 Children",1.77,At Home
+S12000048,2015,Ratio,"Per 1,000 Children",3.86,Foster / Prospective Adopters
+S12000048,2012,Ratio,"Per 1,000 Children",2.84,Foster / Prospective Adopters
+S12000038,2013,Ratio,"Per 1,000 Children",7.2,At Home
+S12000038,2009,Ratio,"Per 1,000 Children",20.33,All
+S12000041,2011,Ratio,"Per 1,000 Children",10.81,All
+S12000048,2010,Ratio,"Per 1,000 Children",6.97,All
+S12000041,2011,Ratio,"Per 1,000 Children",2.25,At Home
+S12000041,2009,Ratio,"Per 1,000 Children",0.68,Residential Care
+S12000041,2015,Ratio,"Per 1,000 Children",4.12,At Home
+S12000038,2015,Ratio,"Per 1,000 Children",5.23,Other Community Placement
+S12000048,2012,Ratio,"Per 1,000 Children",0.63,Residential Care
+S12000048,2016,Ratio,"Per 1,000 Children",10.13,All
+S12000048,2018,Ratio,"Per 1,000 Children",10.09,All
+S12000048,2014,Ratio,"Per 1,000 Children",3.48,Foster / Prospective Adopters
+S12000041,2010,Ratio,"Per 1,000 Children",11.75,All
+S12000048,2009,Ratio,"Per 1,000 Children",2.54,At Home
+S12000041,2018,Ratio,"Per 1,000 Children",11.54,All
+S12000041,2013,Ratio,"Per 1,000 Children",3.05,At Home
+S12000048,2015,Ratio,"Per 1,000 Children",9.03,All
+S12000048,2010,Ratio,"Per 1,000 Children",0.31,Residential Care
+S12000041,2015,Ratio,"Per 1,000 Children",1.66,Other Community Placement
+S12000048,2017,Ratio,"Per 1,000 Children",10.01,All
+S12000048,2012,Ratio,"Per 1,000 Children",2.03,At Home
+S12000041,2011,Ratio,"Per 1,000 Children",2.07,Other Community Placement
+S12000048,2010,Ratio,"Per 1,000 Children",2.39,At Home
+S12000041,2012,Ratio,"Per 1,000 Children",1.75,Other Community Placement
+S12000048,2013,Ratio,"Per 1,000 Children",8.37,All
+S12000041,2009,Ratio,"Per 1,000 Children",11.16,All
+S12000041,2017,Ratio,"Per 1,000 Children",11.57,All
+S12000042,2014,Ratio,"Per 1,000 Children",9.67,Foster / Prospective Adopters
+S12000049,2010,Ratio,"Per 1,000 Children",2.3,Residential Care
+S12000049,2015,Ratio,"Per 1,000 Children",2.71,Residential Care
+S12000036,2012,Ratio,"Per 1,000 Children",4.51,At Home
+S12000042,2009,Ratio,"Per 1,000 Children",1.73,Residential Care
+S12000049,2013,Ratio,"Per 1,000 Children",11.07,Foster / Prospective Adopters
+S12000047,2012,Ratio,"Per 1,000 Children",2.63,Other Community Placement
+S12000049,2012,Ratio,"Per 1,000 Children",2.44,Residential Care
+S12000036,2012,Ratio,"Per 1,000 Children",7.69,Foster / Prospective Adopters
+S12000049,2015,Ratio,"Per 1,000 Children",10.71,Foster / Prospective Adopters
+S12000036,2010,Ratio,"Per 1,000 Children",1.31,Residential Care
+S12000049,2015,Ratio,"Per 1,000 Children",5.33,At Home
+S12000042,2010,Ratio,"Per 1,000 Children",7.5,Foster / Prospective Adopters
+S12000036,2014,Ratio,"Per 1,000 Children",1.08,Residential Care
+S12000049,2013,Ratio,"Per 1,000 Children",2.47,Residential Care
+S12000049,2010,Ratio,"Per 1,000 Children",12.94,At Home
+S12000049,2014,Ratio,"Per 1,000 Children",2.46,Residential Care
+S12000042,2011,Ratio,"Per 1,000 Children",9.38,Foster / Prospective Adopters
+S12000036,2012,Ratio,"Per 1,000 Children",3.47,Other Community Placement
+S12000042,2012,Ratio,"Per 1,000 Children",26.86,All
+S12000049,2014,Ratio,"Per 1,000 Children",11.14,Foster / Prospective Adopters
+S12000049,2013,Ratio,"Per 1,000 Children",7.86,At Home
+S12000047,2015,Ratio,"Per 1,000 Children",2.36,At Home
+S12000036,2014,Ratio,"Per 1,000 Children",4.23,Other Community Placement
+S12000047,2010,Ratio,"Per 1,000 Children",3.06,At Home
+S12000036,2011,Ratio,"Per 1,000 Children",5.33,At Home
+S12000047,2014,Ratio,"Per 1,000 Children",1.66,At Home
+S12000047,2009,Ratio,"Per 1,000 Children",0.97,Residential Care
+S12000047,2009,Ratio,"Per 1,000 Children",3.14,At Home
+S12000036,2011,Ratio,"Per 1,000 Children",3.27,Other Community Placement
+S12000042,2011,Ratio,"Per 1,000 Children",1.64,Residential Care
+S12000042,2013,Ratio,"Per 1,000 Children",1.44,Residential Care
+S12000047,2013,Ratio,"Per 1,000 Children",11.99,All
+S12000049,2011,Ratio,"Per 1,000 Children",11.18,At Home
+S12000036,2010,Ratio,"Per 1,000 Children",6.66,Foster / Prospective Adopters
+S12000036,2011,Ratio,"Per 1,000 Children",1.3,Residential Care
+S12000036,2009,Ratio,"Per 1,000 Children",6.17,Foster / Prospective Adopters
+S12000042,2011,Ratio,"Per 1,000 Children",26.36,All
+S12000036,2018,Ratio,"Per 1,000 Children",15.07,All
+S12000042,2013,Ratio,"Per 1,000 Children",25.71,All
+S12000042,2010,Ratio,"Per 1,000 Children",1.73,Residential Care
+S12000036,2017,Ratio,"Per 1,000 Children",15.67,All
+S12000036,2011,Ratio,"Per 1,000 Children",16.7,All
+S12000036,2014,Ratio,"Per 1,000 Children",4.1,At Home
+S12000050,2013,Ratio,"Per 1,000 Children",0.5,Residential Care
+S12000047,2011,Ratio,"Per 1,000 Children",11.23,All
+S12000036,2009,Ratio,"Per 1,000 Children",1.52,Residential Care
+S12000049,2014,Ratio,"Per 1,000 Children",6.04,At Home
+S12000049,2010,Ratio,"Per 1,000 Children",10.06,Foster / Prospective Adopters
+S12000042,2009,Ratio,"Per 1,000 Children",6.12,Foster / Prospective Adopters
+S12000042,2012,Ratio,"Per 1,000 Children",1.71,Residential Care
+S12000047,2010,Ratio,"Per 1,000 Children",10.83,All
+S12000047,2015,Ratio,"Per 1,000 Children",14.14,All
+S12000036,2013,Ratio,"Per 1,000 Children",4.39,At Home
+S12000036,2013,Ratio,"Per 1,000 Children",7.6,Foster / Prospective Adopters
+S12000049,2009,Ratio,"Per 1,000 Children",5.55,Other Community Placement
+S12000036,2015,Ratio,"Per 1,000 Children",3.87,Other Community Placement
+S12000042,2014,Ratio,"Per 1,000 Children",5.11,At Home
+S12000047,2012,Ratio,"Per 1,000 Children",11.7,All
+S12000042,2013,Ratio,"Per 1,000 Children",6.21,At Home
+S12000038,2010,Ratio,"Per 1,000 Children",4.74,Other Community Placement
+S12000038,2014,Ratio,"Per 1,000 Children",5.13,Other Community Placement
+S12000038,2017,Ratio,"Per 1,000 Children",19.46,All
+S12000049,2009,Ratio,"Per 1,000 Children",29.2,All
+S12000038,2014,Ratio,"Per 1,000 Children",7.24,Foster / Prospective Adopters
+S12000038,2012,Ratio,"Per 1,000 Children",22.82,All
+S12000047,2010,Ratio,"Per 1,000 Children",2.3,Other Community Placement
+S12000049,2010,Ratio,"Per 1,000 Children",32.46,All
+S12000047,2011,Ratio,"Per 1,000 Children",5.08,Foster / Prospective Adopters
+S12000042,2012,Ratio,"Per 1,000 Children",7.69,Other Community Placement
+S12000049,2011,Ratio,"Per 1,000 Children",10.78,Foster / Prospective Adopters
+S12000047,2012,Ratio,"Per 1,000 Children",5.72,Foster / Prospective Adopters
+S12000049,2012,Ratio,"Per 1,000 Children",11.24,Foster / Prospective Adopters
+S12000047,2009,Ratio,"Per 1,000 Children",4.69,Foster / Prospective Adopters
+S12000038,2013,Ratio,"Per 1,000 Children",5.72,Other Community Placement
+S12000038,2016,Ratio,"Per 1,000 Children",20.14,All
+S12000038,2011,Ratio,"Per 1,000 Children",5.5,Other Community Placement
+S12000049,2013,Ratio,"Per 1,000 Children",12.33,Other Community Placement
+S12000042,2013,Ratio,"Per 1,000 Children",8.27,Other Community Placement
+S12000038,2011,Ratio,"Per 1,000 Children",7.34,At Home
+S12000042,2009,Ratio,"Per 1,000 Children",21.13,All
+S12000049,2014,Ratio,"Per 1,000 Children",32.13,All
+S12000042,2016,Ratio,"Per 1,000 Children",22.03,All
+S12000038,2018,Ratio,"Per 1,000 Children",19.35,All
+S12000049,2012,Ratio,"Per 1,000 Children",11.76,Other Community Placement
+S12000038,2015,Ratio,"Per 1,000 Children",20.17,All
+S12000038,2010,Ratio,"Per 1,000 Children",22.55,All
+S12000038,2015,Ratio,"Per 1,000 Children",6.51,At Home
+S12000047,2009,Ratio,"Per 1,000 Children",2.1,Other Community Placement
+S12000042,2012,Ratio,"Per 1,000 Children",7.76,At Home
+S12000049,2018,Ratio,"Per 1,000 Children",25.43,All
+S12000036,2009,Ratio,"Per 1,000 Children",3.32,Other Community Placement
+S12000049,2010,Ratio,"Per 1,000 Children",7.17,Other Community Placement
+S12000047,2014,Ratio,"Per 1,000 Children",2.83,Other Community Placement
+S12000049,2013,Ratio,"Per 1,000 Children",33.72,All
+S12000036,2015,Ratio,"Per 1,000 Children",7.56,Foster / Prospective Adopters
+S12000042,2015,Ratio,"Per 1,000 Children",1.75,Residential Care
+S12000047,2015,Ratio,"Per 1,000 Children",2.68,Other Community Placement
+S12000036,2009,Ratio,"Per 1,000 Children",5.51,At Home
+S12000036,2010,Ratio,"Per 1,000 Children",5.32,At Home
+S12000042,2015,Ratio,"Per 1,000 Children",9.86,Foster / Prospective Adopters
+S12000036,2015,Ratio,"Per 1,000 Children",4.15,At Home
+S12000036,2013,Ratio,"Per 1,000 Children",3.54,Other Community Placement
+S12000047,2014,Ratio,"Per 1,000 Children",12.89,All
+S12000049,2009,Ratio,"Per 1,000 Children",2.27,Residential Care
+S12000036,2014,Ratio,"Per 1,000 Children",7.4,Foster / Prospective Adopters
+S12000047,2012,Ratio,"Per 1,000 Children",0.77,Residential Care
+S12000047,2011,Ratio,"Per 1,000 Children",0.81,Residential Care
+S12000047,2014,Ratio,"Per 1,000 Children",7.0,Foster / Prospective Adopters
+S12000038,2009,Ratio,"Per 1,000 Children",7.11,At Home
+S12000038,2010,Ratio,"Per 1,000 Children",8.91,At Home
+S12000042,2009,Ratio,"Per 1,000 Children",6.48,At Home
+S12000038,2015,Ratio,"Per 1,000 Children",6.92,Foster / Prospective Adopters
+S12000036,2015,Ratio,"Per 1,000 Children",1.11,Residential Care
+S12000047,2010,Ratio,"Per 1,000 Children",4.65,Foster / Prospective Adopters
+S12000049,2011,Ratio,"Per 1,000 Children",11.19,Other Community Placement
+S12000042,2011,Ratio,"Per 1,000 Children",7.41,At Home
+S12000036,2010,Ratio,"Per 1,000 Children",3.14,Other Community Placement
+S12000047,2016,Ratio,"Per 1,000 Children",13.56,All
+S12000036,2011,Ratio,"Per 1,000 Children",6.79,Foster / Prospective Adopters
+S12000011,2010,Ratio,"Per 1,000 Children",1.62,Foster / Prospective Adopters
+S12000011,2015,Ratio,"Per 1,000 Children",6.99,All
+S12000011,2018,Ratio,"Per 1,000 Children",5.08,All
+S12000011,2013,Ratio,"Per 1,000 Children",0.49,Residential Care
+S12000011,2011,Ratio,"Per 1,000 Children",7.51,All
+S12000011,2016,Ratio,"Per 1,000 Children",6.23,All
+S12000011,2011,Ratio,"Per 1,000 Children",1.56,Other Community Placement
+S12000011,2013,Ratio,"Per 1,000 Children",5.51,At Home
+S12000011,2011,Ratio,"Per 1,000 Children",4.39,At Home
+S12000011,2015,Ratio,"Per 1,000 Children",1.34,Foster / Prospective Adopters
+S12000011,2013,Ratio,"Per 1,000 Children",9.12,All
+S12000011,2014,Ratio,"Per 1,000 Children",5.11,At Home
+S12000011,2013,Ratio,"Per 1,000 Children",1.66,Other Community Placement
+S12000011,2010,Ratio,"Per 1,000 Children",0.2,Residential Care
+S12000011,2012,Ratio,"Per 1,000 Children",4.67,At Home
+S12000011,2015,Ratio,"Per 1,000 Children",3.5,At Home
+S12000011,2014,Ratio,"Per 1,000 Children",0.63,Residential Care
+S12000011,2010,Ratio,"Per 1,000 Children",3.92,At Home
+S12000011,2009,Ratio,"Per 1,000 Children",7.78,All
+S12000011,2009,Ratio,"Per 1,000 Children",1.71,Foster / Prospective Adopters
+S12000011,2012,Ratio,"Per 1,000 Children",1.52,Other Community Placement
+S12000011,2015,Ratio,"Per 1,000 Children",0.38,Residential Care
+S12000011,2012,Ratio,"Per 1,000 Children",1.67,Foster / Prospective Adopters
+S12000011,2010,Ratio,"Per 1,000 Children",1.67,Other Community Placement
+S12000011,2015,Ratio,"Per 1,000 Children",1.77,Other Community Placement
+S12000011,2012,Ratio,"Per 1,000 Children",0.69,Residential Care
+S12000011,2009,Ratio,"Per 1,000 Children",4.31,At Home
+S12000011,2012,Ratio,"Per 1,000 Children",8.55,All
+S12000013,2015,Ratio,"Per 1,000 Children",2.23,Foster / Prospective Adopters
+S12000013,2013,Ratio,"Per 1,000 Children",2.53,Residential Care
+S12000013,2016,Ratio,"Per 1,000 Children",7.5,All
+S12000013,2014,Ratio,"Per 1,000 Children",0.99,Other Community Placement
+S12000013,2013,Ratio,"Per 1,000 Children",11.87,All
+S12000013,2012,Ratio,"Per 1,000 Children",3.44,At Home
+S12000013,2011,Ratio,"Per 1,000 Children",3.56,Foster / Prospective Adopters
+S12000013,2012,Ratio,"Per 1,000 Children",3.63,Foster / Prospective Adopters
+S12000013,2011,Ratio,"Per 1,000 Children",10.32,All
+S12000013,2012,Ratio,"Per 1,000 Children",10.33,All
+S12000013,2015,Ratio,"Per 1,000 Children",1.62,Other Community Placement
+S12000013,2010,Ratio,"Per 1,000 Children",11.0,All
+S12000013,2014,Ratio,"Per 1,000 Children",1.99,Foster / Prospective Adopters
+S12000013,2014,Ratio,"Per 1,000 Children",2.38,Residential Care
+S12000013,2018,Ratio,"Per 1,000 Children",8.47,All
+S12000013,2010,Ratio,"Per 1,000 Children",4.1,At Home
+S12000013,2012,Ratio,"Per 1,000 Children",2.1,Residential Care
+S12000013,2013,Ratio,"Per 1,000 Children",2.14,Other Community Placement
+S12000011,2014,Ratio,"Per 1,000 Children",1.25,Other Community Placement
+S12000011,2011,Ratio,"Per 1,000 Children",0.34,Residential Care
+S12000013,2015,Ratio,"Per 1,000 Children",2.43,Residential Care
+S12000013,2010,Ratio,"Per 1,000 Children",2.8,Foster / Prospective Adopters
+S12000013,2013,Ratio,"Per 1,000 Children",4.28,At Home
+S12000013,2009,Ratio,"Per 1,000 Children",8.88,All
+S12000013,2015,Ratio,"Per 1,000 Children",3.24,At Home
+S12000013,2011,Ratio,"Per 1,000 Children",1.5,Other Community Placement
+S12000013,2013,Ratio,"Per 1,000 Children",2.92,Foster / Prospective Adopters
+S12000010,2015,Ratio,"Per 1,000 Children",2.07,Other Community Placement
+S12000010,2011,Ratio,"Per 1,000 Children",9.41,All
+S12000010,2009,Ratio,"Per 1,000 Children",3.65,At Home
+S12000010,2013,Ratio,"Per 1,000 Children",1.41,Other Community Placement
+S12000010,2015,Ratio,"Per 1,000 Children",9.88,All
+S12000010,2013,Ratio,"Per 1,000 Children",9.38,All
+S12000010,2013,Ratio,"Per 1,000 Children",1.32,Residential Care
+S12000010,2014,Ratio,"Per 1,000 Children",4.42,Foster / Prospective Adopters
+S12000010,2012,Ratio,"Per 1,000 Children",9.4,All
+S12000010,2009,Ratio,"Per 1,000 Children",9.46,All
+S12000010,2010,Ratio,"Per 1,000 Children",9.91,All
+S12000010,2012,Ratio,"Per 1,000 Children",1.13,Residential Care
+S12000010,2013,Ratio,"Per 1,000 Children",4.38,Foster / Prospective Adopters
+S12000010,2015,Ratio,"Per 1,000 Children",0.89,Residential Care
+S12000008,2010,Ratio,"Per 1,000 Children",1.65,Residential Care
+S12000008,2015,Ratio,"Per 1,000 Children",19.2,All
+S12000008,2012,Ratio,"Per 1,000 Children",1.39,Residential Care
+S12000008,2015,Ratio,"Per 1,000 Children",1.29,Residential Care
+S12000008,2011,Ratio,"Per 1,000 Children",6.65,Foster / Prospective Adopters
+S12000008,2015,Ratio,"Per 1,000 Children",6.62,Other Community Placement
+S12000008,2010,Ratio,"Per 1,000 Children",7.02,At Home
+S12000010,2014,Ratio,"Per 1,000 Children",1.18,Residential Care
+S12000010,2016,Ratio,"Per 1,000 Children",10.77,All
+S12000010,2009,Ratio,"Per 1,000 Children",1.87,Other Community Placement
+S12000010,2015,Ratio,"Per 1,000 Children",4.23,Foster / Prospective Adopters
+S12000008,2010,Ratio,"Per 1,000 Children",6.86,Foster / Prospective Adopters
+S12000008,2013,Ratio,"Per 1,000 Children",5.64,At Home
+S12000010,2014,Ratio,"Per 1,000 Children",2.73,At Home
+S12000010,2011,Ratio,"Per 1,000 Children",2.73,At Home
+S12000010,2010,Ratio,"Per 1,000 Children",3.16,Foster / Prospective Adopters
+S12000011,2013,Ratio,"Per 1,000 Children",1.46,Foster / Prospective Adopters
+S12000010,2009,Ratio,"Per 1,000 Children",2.81,Foster / Prospective Adopters
+S12000010,2011,Ratio,"Per 1,000 Children",3.86,Foster / Prospective Adopters
+S12000010,2012,Ratio,"Per 1,000 Children",4.23,Foster / Prospective Adopters
+S12000010,2010,Ratio,"Per 1,000 Children",0.9,Residential Care
+S12000011,2010,Ratio,"Per 1,000 Children",7.41,All
+S12000011,2014,Ratio,"Per 1,000 Children",1.45,Foster / Prospective Adopters
+S12000011,2011,Ratio,"Per 1,000 Children",1.22,Foster / Prospective Adopters
+S12000011,2009,Ratio,"Per 1,000 Children",0.34,Residential Care
+S12000011,2017,Ratio,"Per 1,000 Children",5.55,All
+S12000011,2014,Ratio,"Per 1,000 Children",8.43,All
+S12000011,2009,Ratio,"Per 1,000 Children",1.42,Other Community Placement
+S12000010,2018,Ratio,"Per 1,000 Children",11.35,All
+S12000010,2013,Ratio,"Per 1,000 Children",2.26,At Home
+S12000010,2012,Ratio,"Per 1,000 Children",1.08,Other Community Placement
+S12000010,2010,Ratio,"Per 1,000 Children",3.49,At Home
+S12000010,2017,Ratio,"Per 1,000 Children",11.35,All
+S12000010,2014,Ratio,"Per 1,000 Children",9.83,All
+S12000010,2010,Ratio,"Per 1,000 Children",2.36,Other Community Placement
+S12000010,2014,Ratio,"Per 1,000 Children",1.5,Other Community Placement
+S12000010,2011,Ratio,"Per 1,000 Children",1.74,Other Community Placement
+S12000010,2012,Ratio,"Per 1,000 Children",2.96,At Home
+S12000010,2011,Ratio,"Per 1,000 Children",1.08,Residential Care
+S12000010,2015,Ratio,"Per 1,000 Children",2.68,At Home
+S12000010,2009,Ratio,"Per 1,000 Children",1.12,Residential Care
+S12000017,2015,Ratio,"Per 1,000 Children",1.76,Residential Care
+S12000017,2013,Ratio,"Per 1,000 Children",3.65,Foster / Prospective Adopters
+S12000017,2018,Ratio,"Per 1,000 Children",11.73,All
+S12000017,2016,Ratio,"Per 1,000 Children",9.68,All
+S12000017,2012,Ratio,"Per 1,000 Children",4.15,Foster / Prospective Adopters
+S12000017,2014,Ratio,"Per 1,000 Children",2.98,At Home
+S12000017,2013,Ratio,"Per 1,000 Children",10.03,All
+S12000017,2009,Ratio,"Per 1,000 Children",3.52,At Home
+S12000017,2011,Ratio,"Per 1,000 Children",1.51,Residential Care
+S12000017,2013,Ratio,"Per 1,000 Children",2.73,At Home
+S12000017,2014,Ratio,"Per 1,000 Children",3.29,Foster / Prospective Adopters
+S12000017,2009,Ratio,"Per 1,000 Children",3.01,Foster / Prospective Adopters
+S12000017,2012,Ratio,"Per 1,000 Children",1.78,Residential Care
+S12000017,2010,Ratio,"Per 1,000 Children",2.98,Foster / Prospective Adopters
+S12000017,2012,Ratio,"Per 1,000 Children",1.98,Other Community Placement
+S12000017,2011,Ratio,"Per 1,000 Children",1.93,Other Community Placement
+S12000017,2014,Ratio,"Per 1,000 Children",9.8,All
+S12000017,2013,Ratio,"Per 1,000 Children",2.0,Other Community Placement
+S12000017,2010,Ratio,"Per 1,000 Children",9.97,All
+S12000017,2009,Ratio,"Per 1,000 Children",1.75,Other Community Placement
+S12000017,2009,Ratio,"Per 1,000 Children",9.73,All
+S12000017,2012,Ratio,"Per 1,000 Children",10.89,All
+S12000017,2010,Ratio,"Per 1,000 Children",1.64,Residential Care
+S12000017,2011,Ratio,"Per 1,000 Children",10.54,All
+S12000017,2014,Ratio,"Per 1,000 Children",1.62,Other Community Placement
+S12000017,2015,Ratio,"Per 1,000 Children",2.82,At Home
+S12000017,2015,Ratio,"Per 1,000 Children",1.58,Other Community Placement
+S12000017,2010,Ratio,"Per 1,000 Children",1.66,Other Community Placement
+S12000018,2013,Ratio,"Per 1,000 Children",18.12,All
+S12000018,2014,Ratio,"Per 1,000 Children",2.0,Residential Care
+S12000018,2015,Ratio,"Per 1,000 Children",3.59,Foster / Prospective Adopters
+S12000018,2012,Ratio,"Per 1,000 Children",3.38,Foster / Prospective Adopters
+S12000018,2009,Ratio,"Per 1,000 Children",10.33,At Home
+S12000018,2016,Ratio,"Per 1,000 Children",14.03,All
+S12000018,2013,Ratio,"Per 1,000 Children",3.87,Other Community Placement
+S12000018,2015,Ratio,"Per 1,000 Children",5.28,At Home
+S12000018,2010,Ratio,"Per 1,000 Children",9.33,At Home
+S12000018,2013,Ratio,"Per 1,000 Children",8.53,At Home
+S12000018,2014,Ratio,"Per 1,000 Children",3.47,Other Community Placement
+S12000018,2012,Ratio,"Per 1,000 Children",10.07,At Home
+S12000018,2011,Ratio,"Per 1,000 Children",8.56,At Home
+S12000018,2010,Ratio,"Per 1,000 Children",3.47,Other Community Placement
+S12000017,2017,Ratio,"Per 1,000 Children",10.75,All
+S12000017,2011,Ratio,"Per 1,000 Children",3.39,Foster / Prospective Adopters
+S12000017,2015,Ratio,"Per 1,000 Children",3.45,Foster / Prospective Adopters
+S12000017,2013,Ratio,"Per 1,000 Children",1.65,Residential Care
+S12000017,2015,Ratio,"Per 1,000 Children",9.61,All
+S12000017,2014,Ratio,"Per 1,000 Children",1.91,Residential Care
+S12000017,2009,Ratio,"Per 1,000 Children",1.45,Residential Care
+S12000018,2014,Ratio,"Per 1,000 Children",15.81,All
+S12000018,2018,Ratio,"Per 1,000 Children",14.02,All
+S12000018,2015,Ratio,"Per 1,000 Children",1.83,Residential Care
+S12000018,2013,Ratio,"Per 1,000 Children",1.77,Residential Care
+S12000018,2011,Ratio,"Per 1,000 Children",1.98,Residential Care
+S12000018,2011,Ratio,"Per 1,000 Children",4.15,Foster / Prospective Adopters
+S12000014,2009,Ratio,"Per 1,000 Children",13.68,All
+S12000014,2014,Ratio,"Per 1,000 Children",4.79,Foster / Prospective Adopters
+S12000014,2013,Ratio,"Per 1,000 Children",3.85,Foster / Prospective Adopters
+S12000014,2012,Ratio,"Per 1,000 Children",13.37,All
+S12000014,2012,Ratio,"Per 1,000 Children",1.71,Residential Care
+S12000014,2009,Ratio,"Per 1,000 Children",5.26,At Home
+S12000014,2010,Ratio,"Per 1,000 Children",13.8,All
+S12000014,2014,Ratio,"Per 1,000 Children",11.59,All
+S12000014,2011,Ratio,"Per 1,000 Children",1.62,Residential Care
+S12000014,2013,Ratio,"Per 1,000 Children",1.81,Residential Care
+S12000014,2013,Ratio,"Per 1,000 Children",11.73,All
+S12000014,2012,Ratio,"Per 1,000 Children",6.16,At Home
+S12000014,2012,Ratio,"Per 1,000 Children",3.67,Foster / Prospective Adopters
+S12000014,2010,Ratio,"Per 1,000 Children",5.73,At Home
+S12000013,2014,Ratio,"Per 1,000 Children",9.73,All
+S12000013,2017,Ratio,"Per 1,000 Children",9.64,All
+S12000013,2011,Ratio,"Per 1,000 Children",3.56,At Home
+S12000013,2012,Ratio,"Per 1,000 Children",1.15,Other Community Placement
+S12000013,2009,Ratio,"Per 1,000 Children",2.22,Foster / Prospective Adopters
+S12000013,2015,Ratio,"Per 1,000 Children",9.53,All
+S12000013,2011,Ratio,"Per 1,000 Children",1.69,Residential Care
+S12000013,2010,Ratio,"Per 1,000 Children",2.05,Other Community Placement
+S12000013,2009,Ratio,"Per 1,000 Children",2.41,At Home
+S12000013,2009,Ratio,"Per 1,000 Children",2.59,Other Community Placement
+S12000013,2009,Ratio,"Per 1,000 Children",1.67,Residential Care
+S12000013,2010,Ratio,"Per 1,000 Children",2.05,Residential Care
+S12000013,2014,Ratio,"Per 1,000 Children",4.37,At Home
+S12000014,2012,Ratio,"Per 1,000 Children",1.83,Other Community Placement
+S12000014,2011,Ratio,"Per 1,000 Children",12.42,All
+S12000014,2010,Ratio,"Per 1,000 Children",3.74,Foster / Prospective Adopters
+S12000014,2015,Ratio,"Per 1,000 Children",11.42,All
+S12000014,2011,Ratio,"Per 1,000 Children",2.09,Other Community Placement
+S12000014,2015,Ratio,"Per 1,000 Children",3.7,At Home
+S12000014,2016,Ratio,"Per 1,000 Children",11.71,All
+S12000017,2010,Ratio,"Per 1,000 Children",3.7,At Home
+S12000014,2018,Ratio,"Per 1,000 Children",11.68,All
+S12000017,2012,Ratio,"Per 1,000 Children",2.99,At Home
+S12000017,2011,Ratio,"Per 1,000 Children",3.71,At Home
+S12000014,2013,Ratio,"Per 1,000 Children",1.47,Other Community Placement
+S12000014,2009,Ratio,"Per 1,000 Children",4.23,Foster / Prospective Adopters
+S12000014,2013,Ratio,"Per 1,000 Children",4.6,At Home
+S12000014,2011,Ratio,"Per 1,000 Children",5.32,At Home
+S12000014,2010,Ratio,"Per 1,000 Children",2.87,Other Community Placement
+S12000014,2010,Ratio,"Per 1,000 Children",1.46,Residential Care
+S12000014,2009,Ratio,"Per 1,000 Children",1.85,Residential Care
+S12000014,2015,Ratio,"Per 1,000 Children",1.85,Residential Care
+S12000014,2017,Ratio,"Per 1,000 Children",11.96,All
+S12000014,2009,Ratio,"Per 1,000 Children",2.35,Other Community Placement
+S12000014,2015,Ratio,"Per 1,000 Children",1.0,Other Community Placement
+S12000014,2014,Ratio,"Per 1,000 Children",3.57,At Home
+S12000014,2014,Ratio,"Per 1,000 Children",2.13,Residential Care
+S12000014,2011,Ratio,"Per 1,000 Children",3.39,Foster / Prospective Adopters
+S12000014,2014,Ratio,"Per 1,000 Children",1.1,Other Community Placement
+S12000014,2015,Ratio,"Per 1,000 Children",4.87,Foster / Prospective Adopters
+S12000040,2009,Ratio,"Per 1,000 Children",1.43,Other Community Placement
+S12000040,2012,Ratio,"Per 1,000 Children",3.75,At Home
+S12000040,2011,Ratio,"Per 1,000 Children",1.38,Residential Care
+S12000040,2013,Ratio,"Per 1,000 Children",11.25,All
+S12000040,2011,Ratio,"Per 1,000 Children",3.75,Foster / Prospective Adopters
+S12000040,2015,Ratio,"Per 1,000 Children",1.14,Residential Care
+S12000040,2010,Ratio,"Per 1,000 Children",1.93,Other Community Placement
+S92000003,2009,Ratio,"Per 1,000 Children",5.63,At Home
+S92000003,2013,Ratio,"Per 1,000 Children",4.09,Other Community Placement
+S92000003,2012,Ratio,"Per 1,000 Children",4.96,At Home
+S92000003,2015,Ratio,"Per 1,000 Children",1.48,Residential Care
+S92000003,2014,Ratio,"Per 1,000 Children",4.01,At Home
+S92000003,2016,Ratio,"Per 1,000 Children",14.86,All
+S92000003,2013,Ratio,"Per 1,000 Children",5.39,Foster / Prospective Adopters
+S12000040,2012,Ratio,"Per 1,000 Children",3.47,Foster / Prospective Adopters
+S12000040,2017,Ratio,"Per 1,000 Children",12.91,All
+S12000040,2013,Ratio,"Per 1,000 Children",3.39,Foster / Prospective Adopters
+S12000040,2013,Ratio,"Per 1,000 Children",1.24,Residential Care
+S12000040,2010,Ratio,"Per 1,000 Children",11.28,All
+S12000040,2009,Ratio,"Per 1,000 Children",10.2,All
+S12000040,2012,Ratio,"Per 1,000 Children",2.14,Other Community Placement
+S12000040,2014,Ratio,"Per 1,000 Children",10.51,All
+S12000040,2015,Ratio,"Per 1,000 Children",2.74,Other Community Placement
+S12000040,2014,Ratio,"Per 1,000 Children",3.44,Foster / Prospective Adopters
+S12000040,2015,Ratio,"Per 1,000 Children",3.19,At Home
+S12000040,2011,Ratio,"Per 1,000 Children",1.8,Other Community Placement
+S12000040,2015,Ratio,"Per 1,000 Children",11.0,All
+S12000040,2012,Ratio,"Per 1,000 Children",1.16,Residential Care
+S92000003,2010,Ratio,"Per 1,000 Children",3.08,Other Community Placement
+S92000003,2009,Ratio,"Per 1,000 Children",2.89,Other Community Placement
+S92000003,2010,Ratio,"Per 1,000 Children",15.2,All
+S92000003,2012,Ratio,"Per 1,000 Children",3.97,Other Community Placement
+S92000003,2015,Ratio,"Per 1,000 Children",4.08,Other Community Placement
+S92000003,2015,Ratio,"Per 1,000 Children",5.57,Foster / Prospective Adopters
+S92000003,2014,Ratio,"Per 1,000 Children",4.13,Other Community Placement
+S92000003,2015,Ratio,"Per 1,000 Children",3.81,At Home
+S92000003,2014,Ratio,"Per 1,000 Children",5.54,Foster / Prospective Adopters
+S92000003,2014,Ratio,"Per 1,000 Children",15.11,All
+S92000003,2013,Ratio,"Per 1,000 Children",1.42,Residential Care
+S92000003,2009,Ratio,"Per 1,000 Children",14.52,All
+S92000003,2012,Ratio,"Per 1,000 Children",1.38,Residential Care
+S92000003,2018,Ratio,"Per 1,000 Children",14.32,All
+S92000003,2013,Ratio,"Per 1,000 Children",15.49,All
+S92000003,2010,Ratio,"Per 1,000 Children",5.92,At Home
+S92000003,2011,Ratio,"Per 1,000 Children",5.12,Foster / Prospective Adopters
+S92000003,2014,Ratio,"Per 1,000 Children",1.42,Residential Care
+S92000003,2012,Ratio,"Per 1,000 Children",5.34,Foster / Prospective Adopters
+S92000003,2017,Ratio,"Per 1,000 Children",14.44,All
+S92000003,2011,Ratio,"Per 1,000 Children",5.25,At Home
+S92000003,2013,Ratio,"Per 1,000 Children",4.6,At Home
+S92000003,2011,Ratio,"Per 1,000 Children",15.58,All
+S92000003,2011,Ratio,"Per 1,000 Children",3.8,Other Community Placement
+S92000003,2009,Ratio,"Per 1,000 Children",4.5,Foster / Prospective Adopters
+S92000003,2011,Ratio,"Per 1,000 Children",1.4,Residential Care
+S92000003,2010,Ratio,"Per 1,000 Children",4.78,Foster / Prospective Adopters
+S12000039,2011,Ratio,"Per 1,000 Children",20.99,All
+S12000039,2011,Ratio,"Per 1,000 Children",5.04,Foster / Prospective Adopters
+S12000039,2010,Ratio,"Per 1,000 Children",4.27,Other Community Placement
+S12000039,2015,Ratio,"Per 1,000 Children",2.37,Residential Care
+S12000039,2013,Ratio,"Per 1,000 Children",6.15,At Home
+S12000039,2018,Ratio,"Per 1,000 Children",25.43,All
+S12000039,2009,Ratio,"Per 1,000 Children",4.31,Foster / Prospective Adopters
+S12000039,2014,Ratio,"Per 1,000 Children",7.66,Other Community Placement
+S12000039,2015,Ratio,"Per 1,000 Children",8.3,Other Community Placement
+S12000039,2014,Ratio,"Per 1,000 Children",1.97,Residential Care
+S12000039,2015,Ratio,"Per 1,000 Children",21.79,All
+S12000039,2012,Ratio,"Per 1,000 Children",2.37,Residential Care
+S12000039,2009,Ratio,"Per 1,000 Children",3.46,Other Community Placement
+S12000039,2015,Ratio,"Per 1,000 Children",5.19,Foster / Prospective Adopters
+S12000039,2010,Ratio,"Per 1,000 Children",2.33,Residential Care
+S12000039,2013,Ratio,"Per 1,000 Children",2.57,Residential Care
+S12000039,2013,Ratio,"Per 1,000 Children",19.78,All
+S12000039,2016,Ratio,"Per 1,000 Children",20.49,All
+S12000039,2011,Ratio,"Per 1,000 Children",9.1,At Home
+S12000039,2010,Ratio,"Per 1,000 Children",4.54,Foster / Prospective Adopters
+S12000039,2011,Ratio,"Per 1,000 Children",2.3,Residential Care
+S12000039,2017,Ratio,"Per 1,000 Children",24.22,All
+S12000039,2014,Ratio,"Per 1,000 Children",20.77,All
+S12000039,2012,Ratio,"Per 1,000 Children",8.28,At Home
+S12000039,2009,Ratio,"Per 1,000 Children",19.99,All
+S12000039,2011,Ratio,"Per 1,000 Children",4.55,Other Community Placement
+S12000039,2009,Ratio,"Per 1,000 Children",2.5,Residential Care
+S12000039,2010,Ratio,"Per 1,000 Children",20.72,All
+S12000040,2015,Ratio,"Per 1,000 Children",3.93,Foster / Prospective Adopters
+S12000040,2010,Ratio,"Per 1,000 Children",1.43,Residential Care
+S12000040,2009,Ratio,"Per 1,000 Children",3.77,At Home
+S12000040,2009,Ratio,"Per 1,000 Children",3.82,Foster / Prospective Adopters
+S12000040,2011,Ratio,"Per 1,000 Children",11.18,All
+S12000040,2014,Ratio,"Per 1,000 Children",1.22,Residential Care
+S12000040,2014,Ratio,"Per 1,000 Children",3.16,At Home
+S12000040,2010,Ratio,"Per 1,000 Children",4.39,At Home
+S12000040,2013,Ratio,"Per 1,000 Children",2.88,Other Community Placement
+S12000040,2014,Ratio,"Per 1,000 Children",2.68,Other Community Placement
+S12000040,2010,Ratio,"Per 1,000 Children",3.54,Foster / Prospective Adopters
+S12000040,2012,Ratio,"Per 1,000 Children",10.51,All
+S12000040,2009,Ratio,"Per 1,000 Children",1.18,Residential Care
+S12000040,2011,Ratio,"Per 1,000 Children",4.25,At Home
+S12000039,2012,Ratio,"Per 1,000 Children",20.38,All
+S12000039,2013,Ratio,"Per 1,000 Children",5.48,Foster / Prospective Adopters
+S12000039,2014,Ratio,"Per 1,000 Children",5.91,At Home
+S12000039,2014,Ratio,"Per 1,000 Children",5.24,Foster / Prospective Adopters
+S12000039,2012,Ratio,"Per 1,000 Children",4.75,Other Community Placement
+S12000039,2015,Ratio,"Per 1,000 Children",5.93,At Home
+S12000039,2012,Ratio,"Per 1,000 Children",4.97,Foster / Prospective Adopters
+S12000040,2018,Ratio,"Per 1,000 Children",11.16,All
+S12000040,2016,Ratio,"Per 1,000 Children",11.38,All
+S12000040,2013,Ratio,"Per 1,000 Children",3.74,At Home
+S12000039,2010,Ratio,"Per 1,000 Children",9.58,At Home
+S12000039,2009,Ratio,"Per 1,000 Children",9.73,At Home
+S12000039,2013,Ratio,"Per 1,000 Children",5.59,Other Community Placement
+S12000006,2015,Ratio,"Per 1,000 Children",15.13,All
+S12000006,2014,Ratio,"Per 1,000 Children",14.12,All
+S12000006,2015,Ratio,"Per 1,000 Children",3.81,Foster / Prospective Adopters
+S12000006,2011,Ratio,"Per 1,000 Children",6.12,At Home
+S12000006,2012,Ratio,"Per 1,000 Children",1.13,Residential Care
+S12000006,2012,Ratio,"Per 1,000 Children",3.28,Foster / Prospective Adopters
+S12000006,2015,Ratio,"Per 1,000 Children",1.15,Residential Care
+S12000006,2013,Ratio,"Per 1,000 Children",3.63,Other Community Placement
+S12000006,2011,Ratio,"Per 1,000 Children",3.15,Other Community Placement
+S12000008,2012,Ratio,"Per 1,000 Children",7.82,Other Community Placement
+S12000008,2009,Ratio,"Per 1,000 Children",21.0,All
+S12000006,2013,Ratio,"Per 1,000 Children",13.49,All
+S12000006,2012,Ratio,"Per 1,000 Children",14.15,All
+S12000006,2013,Ratio,"Per 1,000 Children",1.22,Residential Care
+S12000006,2011,Ratio,"Per 1,000 Children",14.46,All
+S12000006,2018,Ratio,"Per 1,000 Children",16.67,All
+S12000006,2012,Ratio,"Per 1,000 Children",6.46,At Home
+S12000006,2013,Ratio,"Per 1,000 Children",5.04,At Home
+S12000006,2009,Ratio,"Per 1,000 Children",3.21,Foster / Prospective Adopters
+S12000006,2015,Ratio,"Per 1,000 Children",6.36,At Home
+S12000006,2010,Ratio,"Per 1,000 Children",3.68,Foster / Prospective Adopters
+S12000006,2009,Ratio,"Per 1,000 Children",7.49,At Home
+S12000006,2012,Ratio,"Per 1,000 Children",3.28,Other Community Placement
+S12000006,2014,Ratio,"Per 1,000 Children",1.24,Residential Care
+S12000006,2014,Ratio,"Per 1,000 Children",3.76,Foster / Prospective Adopters
+S12000006,2009,Ratio,"Per 1,000 Children",15.07,All
+S12000006,2016,Ratio,"Per 1,000 Children",14.54,All
+S12000006,2013,Ratio,"Per 1,000 Children",3.6,Foster / Prospective Adopters
+S12000008,2011,Ratio,"Per 1,000 Children",6.2,At Home
+S12000008,2012,Ratio,"Per 1,000 Children",6.93,Foster / Prospective Adopters
+S12000008,2016,Ratio,"Per 1,000 Children",19.28,All
+S12000008,2013,Ratio,"Per 1,000 Children",6.79,Foster / Prospective Adopters
+S12000008,2013,Ratio,"Per 1,000 Children",21.43,All
+S12000008,2009,Ratio,"Per 1,000 Children",1.64,Residential Care
+S12000008,2011,Ratio,"Per 1,000 Children",1.86,Residential Care
+S12000008,2011,Ratio,"Per 1,000 Children",5.88,Other Community Placement
+S12000008,2011,Ratio,"Per 1,000 Children",20.59,All
+S12000008,2012,Ratio,"Per 1,000 Children",4.93,At Home
+S12000008,2009,Ratio,"Per 1,000 Children",8.1,At Home
+S12000008,2013,Ratio,"Per 1,000 Children",7.45,Other Community Placement
+S12000008,2014,Ratio,"Per 1,000 Children",6.72,Foster / Prospective Adopters
+S12000008,2012,Ratio,"Per 1,000 Children",21.07,All
+S12000008,2015,Ratio,"Per 1,000 Children",4.54,At Home
+S12000008,2015,Ratio,"Per 1,000 Children",6.75,Foster / Prospective Adopters
+S12000008,2010,Ratio,"Per 1,000 Children",19.35,All
+S12000008,2017,Ratio,"Per 1,000 Children",16.13,All
+S12000008,2018,Ratio,"Per 1,000 Children",16.94,All
+S12000008,2014,Ratio,"Per 1,000 Children",4.94,At Home
+S12000008,2014,Ratio,"Per 1,000 Children",7.51,Other Community Placement
+S12000008,2014,Ratio,"Per 1,000 Children",20.74,All
+S12000008,2014,Ratio,"Per 1,000 Children",1.58,Residential Care
+S12000008,2013,Ratio,"Per 1,000 Children",1.56,Residential Care
+S12000008,2009,Ratio,"Per 1,000 Children",6.47,Foster / Prospective Adopters
+S12000008,2010,Ratio,"Per 1,000 Children",3.81,Other Community Placement
+S12000008,2009,Ratio,"Per 1,000 Children",4.79,Other Community Placement
+S12000005,2012,Ratio,"Per 1,000 Children",20.42,All
+S12000005,2010,Ratio,"Per 1,000 Children",7.4,At Home
+S12000005,2011,Ratio,"Per 1,000 Children",5.35,Foster / Prospective Adopters
+S12000005,2011,Ratio,"Per 1,000 Children",5.35,Other Community Placement
+S12000005,2014,Ratio,"Per 1,000 Children",7.66,Foster / Prospective Adopters
+S12000005,2014,Ratio,"Per 1,000 Children",17.85,All
+S12000005,2012,Ratio,"Per 1,000 Children",5.15,Other Community Placement
+S12000005,2014,Ratio,"Per 1,000 Children",3.69,Other Community Placement
+S12000005,2013,Ratio,"Per 1,000 Children",4.4,Other Community Placement
+S12000005,2013,Ratio,"Per 1,000 Children",1.53,Residential Care
+S12000005,2015,Ratio,"Per 1,000 Children",1.85,Residential Care
+S12000005,2013,Ratio,"Per 1,000 Children",6.7,Foster / Prospective Adopters
+S12000005,2009,Ratio,"Per 1,000 Children",2.02,Residential Care
+S12000005,2015,Ratio,"Per 1,000 Children",19.72,All
+S12000005,2015,Ratio,"Per 1,000 Children",5.76,At Home
+S92000003,2009,Ratio,"Per 1,000 Children",1.5,Residential Care
+S12000005,2010,Ratio,"Per 1,000 Children",1.85,Residential Care
+S12000005,2011,Ratio,"Per 1,000 Children",8.54,At Home
+S92000003,2012,Ratio,"Per 1,000 Children",15.65,All
+S92000003,2015,Ratio,"Per 1,000 Children",14.94,All
+S92000003,2010,Ratio,"Per 1,000 Children",1.42,Residential Care
+S12000005,2012,Ratio,"Per 1,000 Children",6.68,Foster / Prospective Adopters
+S12000005,2011,Ratio,"Per 1,000 Children",1.5,Residential Care
+S12000005,2009,Ratio,"Per 1,000 Children",7.24,At Home
+S12000005,2009,Ratio,"Per 1,000 Children",18.97,All
+S12000005,2012,Ratio,"Per 1,000 Children",6.87,At Home
+S12000005,2010,Ratio,"Per 1,000 Children",20.52,All
+S12000006,2010,Ratio,"Per 1,000 Children",13.57,All
+S12000006,2015,Ratio,"Per 1,000 Children",3.81,Other Community Placement
+S12000006,2009,Ratio,"Per 1,000 Children",3.01,Other Community Placement
+S12000006,2011,Ratio,"Per 1,000 Children",1.18,Residential Care
+S12000005,2009,Ratio,"Per 1,000 Children",4.67,Other Community Placement
+S12000005,2012,Ratio,"Per 1,000 Children",1.72,Residential Care
+S12000006,2014,Ratio,"Per 1,000 Children",5.51,At Home
+S12000006,2010,Ratio,"Per 1,000 Children",1.52,Residential Care
+S12000006,2009,Ratio,"Per 1,000 Children",1.37,Residential Care
+S12000006,2014,Ratio,"Per 1,000 Children",3.61,Other Community Placement
+S12000006,2017,Ratio,"Per 1,000 Children",14.3,All
+S12000006,2010,Ratio,"Per 1,000 Children",3.1,Other Community Placement
+S12000006,2010,Ratio,"Per 1,000 Children",5.27,At Home
+S12000006,2011,Ratio,"Per 1,000 Children",4.01,Foster / Prospective Adopters
+S12000005,2013,Ratio,"Per 1,000 Children",4.88,At Home
+S12000005,2016,Ratio,"Per 1,000 Children",22.74,All
+S12000005,2013,Ratio,"Per 1,000 Children",17.52,All
+S12000005,2010,Ratio,"Per 1,000 Children",4.53,Other Community Placement
+S12000005,2017,Ratio,"Per 1,000 Children",20.76,All
+S12000005,2009,Ratio,"Per 1,000 Children",5.04,Foster / Prospective Adopters
+S12000005,2011,Ratio,"Per 1,000 Children",20.74,All
+S12000005,2015,Ratio,"Per 1,000 Children",3.42,Other Community Placement
+S12000005,2018,Ratio,"Per 1,000 Children",20.84,All
+S12000005,2014,Ratio,"Per 1,000 Children",1.46,Residential Care
+S12000005,2010,Ratio,"Per 1,000 Children",6.75,Foster / Prospective Adopters
+S12000005,2014,Ratio,"Per 1,000 Children",5.05,At Home
+S12000005,2015,Ratio,"Per 1,000 Children",8.69,Foster / Prospective Adopters
+S12000029,2015,Ratio,"Per 1,000 Children",8.81,All
+S12000029,2011,Ratio,"Per 1,000 Children",2.68,At Home
+S12000029,2015,Ratio,"Per 1,000 Children",1.13,Residential Care
+S12000029,2011,Ratio,"Per 1,000 Children",1.25,Other Community Placement
+S12000029,2009,Ratio,"Per 1,000 Children",7.6,All
+S12000029,2013,Ratio,"Per 1,000 Children",3.6,At Home
+S12000029,2018,Ratio,"Per 1,000 Children",10.57,All
+S12000029,2012,Ratio,"Per 1,000 Children",2.07,Other Community Placement
+S12000029,2011,Ratio,"Per 1,000 Children",1.69,Residential Care
+S12000029,2017,Ratio,"Per 1,000 Children",8.84,All
+S12000029,2011,Ratio,"Per 1,000 Children",3.04,Foster / Prospective Adopters
+S12000029,2014,Ratio,"Per 1,000 Children",1.14,Residential Care
+S12000029,2014,Ratio,"Per 1,000 Children",3.15,Foster / Prospective Adopters
+S12000029,2011,Ratio,"Per 1,000 Children",8.66,All
+S12000028,2010,Ratio,"Per 1,000 Children",7.64,At Home
+S12000028,2009,Ratio,"Per 1,000 Children",5.75,At Home
+S12000028,2013,Ratio,"Per 1,000 Children",17.65,All
+S12000028,2009,Ratio,"Per 1,000 Children",2.38,Other Community Placement
+S12000028,2012,Ratio,"Per 1,000 Children",0.91,Residential Care
+S12000028,2015,Ratio,"Per 1,000 Children",7.12,Foster / Prospective Adopters
+S12000028,2011,Ratio,"Per 1,000 Children",15.89,All
+S12000029,2013,Ratio,"Per 1,000 Children",1.14,Residential Care
+S12000029,2016,Ratio,"Per 1,000 Children",9.05,All
+S12000029,2012,Ratio,"Per 1,000 Children",3.82,At Home
+S12000029,2010,Ratio,"Per 1,000 Children",7.69,All
+S12000028,2013,Ratio,"Per 1,000 Children",6.48,Foster / Prospective Adopters
+S12000028,2009,Ratio,"Per 1,000 Children",13.56,All
+S12000028,2015,Ratio,"Per 1,000 Children",16.21,All
+S12000029,2010,Ratio,"Per 1,000 Children",2.6,At Home
+S12000029,2010,Ratio,"Per 1,000 Children",1.44,Other Community Placement
+S12000029,2013,Ratio,"Per 1,000 Children",9.55,All
+S12000029,2010,Ratio,"Per 1,000 Children",1.21,Residential Care
+S12000029,2015,Ratio,"Per 1,000 Children",3.05,Foster / Prospective Adopters
+S12000029,2009,Ratio,"Per 1,000 Children",2.88,At Home
+S12000029,2009,Ratio,"Per 1,000 Children",1.4,Residential Care
+S12000030,2014,Ratio,"Per 1,000 Children",1.67,Residential Care
+S12000030,2014,Ratio,"Per 1,000 Children",13.01,All
+S12000030,2018,Ratio,"Per 1,000 Children",13.45,All
+S12000030,2013,Ratio,"Per 1,000 Children",3.83,Foster / Prospective Adopters
+S12000030,2010,Ratio,"Per 1,000 Children",11.95,All
+S12000030,2014,Ratio,"Per 1,000 Children",3.74,At Home
+S12000030,2009,Ratio,"Per 1,000 Children",11.98,All
+S12000029,2012,Ratio,"Per 1,000 Children",9.82,All
+S12000029,2013,Ratio,"Per 1,000 Children",2.89,Foster / Prospective Adopters
+S12000029,2015,Ratio,"Per 1,000 Children",2.86,At Home
+S12000029,2012,Ratio,"Per 1,000 Children",1.15,Residential Care
+S12000029,2013,Ratio,"Per 1,000 Children",1.92,Other Community Placement
+S12000029,2012,Ratio,"Per 1,000 Children",2.79,Foster / Prospective Adopters
+S12000029,2014,Ratio,"Per 1,000 Children",9.57,All
+S12000029,2009,Ratio,"Per 1,000 Children",1.91,Foster / Prospective Adopters
+S12000029,2014,Ratio,"Per 1,000 Children",1.86,Other Community Placement
+S12000029,2014,Ratio,"Per 1,000 Children",3.41,At Home
+S12000029,2010,Ratio,"Per 1,000 Children",2.44,Foster / Prospective Adopters
+S12000029,2015,Ratio,"Per 1,000 Children",1.77,Other Community Placement
+S12000029,2009,Ratio,"Per 1,000 Children",1.41,Other Community Placement
+S12000027,2014,Ratio,"Per 1,000 Children",6.35,All
+S12000027,2015,Ratio,"Per 1,000 Children",7.25,All
+S12000027,2010,Ratio,"Per 1,000 Children",1.37,Other Community Placement
+S12000027,2012,Ratio,"Per 1,000 Children",0.8,Residential Care
+S12000027,2010,Ratio,"Per 1,000 Children",7.03,All
+S12000027,2009,Ratio,"Per 1,000 Children",7.25,All
+S12000027,2015,Ratio,"Per 1,000 Children",2.07,At Home
+S12000027,2011,Ratio,"Per 1,000 Children",1.18,Other Community Placement
+S12000027,2013,Ratio,"Per 1,000 Children",2.63,At Home
+S12000028,2016,Ratio,"Per 1,000 Children",18.86,All
+S12000027,2013,Ratio,"Per 1,000 Children",2.22,Foster / Prospective Adopters
+S12000027,2013,Ratio,"Per 1,000 Children",0.81,Other Community Placement
+S12000027,2012,Ratio,"Per 1,000 Children",1.2,Other Community Placement
+S12000027,2014,Ratio,"Per 1,000 Children",1.84,Foster / Prospective Adopters
+S12000027,2014,Ratio,"Per 1,000 Children",1.23,Other Community Placement
+S12000027,2013,Ratio,"Per 1,000 Children",6.27,All
+S12000027,2014,Ratio,"Per 1,000 Children",0.61,Residential Care
+S12000027,2012,Ratio,"Per 1,000 Children",1.79,Foster / Prospective Adopters
+S12000027,2009,Ratio,"Per 1,000 Children",0.98,Residential Care
+S12000027,2009,Ratio,"Per 1,000 Children",1.96,Foster / Prospective Adopters
+S12000027,2015,Ratio,"Per 1,000 Children",2.28,Foster / Prospective Adopters
+S12000027,2010,Ratio,"Per 1,000 Children",1.37,Residential Care
+S12000027,2013,Ratio,"Per 1,000 Children",0.61,Residential Care
+S12000027,2015,Ratio,"Per 1,000 Children",2.07,Other Community Placement
+S12000027,2011,Ratio,"Per 1,000 Children",1.57,At Home
+S12000027,2012,Ratio,"Per 1,000 Children",6.18,All
+S12000027,2014,Ratio,"Per 1,000 Children",2.66,At Home
+S12000027,2012,Ratio,"Per 1,000 Children",2.39,At Home
+S12000028,2017,Ratio,"Per 1,000 Children",18.32,All
+S12000028,2018,Ratio,"Per 1,000 Children",17.86,All
+S12000028,2011,Ratio,"Per 1,000 Children",2.98,Other Community Placement
+S12000028,2014,Ratio,"Per 1,000 Children",16.75,All
+S12000028,2012,Ratio,"Per 1,000 Children",16.88,All
+S12000028,2012,Ratio,"Per 1,000 Children",7.14,At Home
+S12000028,2014,Ratio,"Per 1,000 Children",1.51,Residential Care
+S12000028,2010,Ratio,"Per 1,000 Children",16.56,All
+S12000028,2011,Ratio,"Per 1,000 Children",6.24,At Home
+S12000028,2010,Ratio,"Per 1,000 Children",2.74,Other Community Placement
+S12000028,2013,Ratio,"Per 1,000 Children",7.06,At Home
+S12000028,2013,Ratio,"Per 1,000 Children",2.9,Other Community Placement
+S12000028,2013,Ratio,"Per 1,000 Children",1.21,Residential Care
+S12000028,2015,Ratio,"Per 1,000 Children",1.33,Residential Care
+S12000028,2014,Ratio,"Per 1,000 Children",3.17,Other Community Placement
+S12000028,2015,Ratio,"Per 1,000 Children",3.49,Other Community Placement
+S12000028,2011,Ratio,"Per 1,000 Children",5.67,Foster / Prospective Adopters
+S12000028,2010,Ratio,"Per 1,000 Children",1.13,Residential Care
+S12000028,2010,Ratio,"Per 1,000 Children",5.05,Foster / Prospective Adopters
+S12000028,2009,Ratio,"Per 1,000 Children",3.93,Foster / Prospective Adopters
+S12000028,2015,Ratio,"Per 1,000 Children",4.27,At Home
+S12000028,2014,Ratio,"Per 1,000 Children",5.42,At Home
+S12000028,2012,Ratio,"Per 1,000 Children",3.12,Other Community Placement
+S12000028,2012,Ratio,"Per 1,000 Children",5.71,Foster / Prospective Adopters
+S12000028,2009,Ratio,"Per 1,000 Children",1.5,Residential Care
+S12000028,2011,Ratio,"Per 1,000 Children",0.99,Residential Care
+S12000028,2014,Ratio,"Per 1,000 Children",6.64,Foster / Prospective Adopters
+S12000034,2014,Ratio,"Per 1,000 Children",0.91,Residential Care
+S12000034,2010,Ratio,"Per 1,000 Children",1.39,Residential Care
+S12000034,2012,Ratio,"Per 1,000 Children",1.04,Residential Care
+S12000034,2009,Ratio,"Per 1,000 Children",1.34,Residential Care
+S12000034,2015,Ratio,"Per 1,000 Children",3.11,Foster / Prospective Adopters
+S12000033,2014,Ratio,"Per 1,000 Children",1.65,Residential Care
+S12000034,2012,Ratio,"Per 1,000 Children",8.33,All
+S12000034,2015,Ratio,"Per 1,000 Children",1.93,At Home
+S12000034,2010,Ratio,"Per 1,000 Children",9.21,All
+S12000034,2013,Ratio,"Per 1,000 Children",2.36,At Home
+S12000034,2015,Ratio,"Per 1,000 Children",1.46,Other Community Placement
+S12000034,2015,Ratio,"Per 1,000 Children",7.48,All
+S12000034,2009,Ratio,"Per 1,000 Children",8.54,All
+S12000034,2010,Ratio,"Per 1,000 Children",1.56,Other Community Placement
+S12000033,2011,Ratio,"Per 1,000 Children",1.53,Residential Care
+S12000033,2012,Ratio,"Per 1,000 Children",1.48,Residential Care
+S12000033,2016,Ratio,"Per 1,000 Children",14.64,All
+S12000033,2013,Ratio,"Per 1,000 Children",1.48,Residential Care
+S12000033,2009,Ratio,"Per 1,000 Children",6.75,Foster / Prospective Adopters
+S12000033,2014,Ratio,"Per 1,000 Children",3.01,Other Community Placement
+S12000033,2015,Ratio,"Per 1,000 Children",1.59,Residential Care
+S12000033,2017,Ratio,"Per 1,000 Children",15.53,All
+S12000033,2018,Ratio,"Per 1,000 Children",14.29,All
+S12000033,2013,Ratio,"Per 1,000 Children",6.91,Foster / Prospective Adopters
+S12000033,2011,Ratio,"Per 1,000 Children",17.56,All
+S12000033,2010,Ratio,"Per 1,000 Children",1.76,Residential Care
+S12000033,2012,Ratio,"Per 1,000 Children",6.93,Foster / Prospective Adopters
+S12000033,2009,Ratio,"Per 1,000 Children",2.14,Residential Care
+S12000034,2013,Ratio,"Per 1,000 Children",7.83,All
+S12000034,2013,Ratio,"Per 1,000 Children",0.94,Residential Care
+S12000034,2014,Ratio,"Per 1,000 Children",2.04,At Home
+S12000034,2014,Ratio,"Per 1,000 Children",1.33,Other Community Placement
+S12000034,2011,Ratio,"Per 1,000 Children",3.07,Foster / Prospective Adopters
+S12000034,2012,Ratio,"Per 1,000 Children",2.94,Foster / Prospective Adopters
+S12000034,2011,Ratio,"Per 1,000 Children",1.15,Residential Care
+S12000034,2010,Ratio,"Per 1,000 Children",2.88,Foster / Prospective Adopters
+S12000034,2015,Ratio,"Per 1,000 Children",0.98,Residential Care
+S12000035,2014,Ratio,"Per 1,000 Children",3.52,Foster / Prospective Adopters
+S12000035,2013,Ratio,"Per 1,000 Children",3.08,Foster / Prospective Adopters
+S12000034,2018,Ratio,"Per 1,000 Children",7.49,All
+S12000034,2011,Ratio,"Per 1,000 Children",9.17,All
+S12000034,2017,Ratio,"Per 1,000 Children",7.19,All
+S12000034,2012,Ratio,"Per 1,000 Children",1.7,Other Community Placement
+S12000034,2014,Ratio,"Per 1,000 Children",7.35,All
+S12000034,2014,Ratio,"Per 1,000 Children",3.07,Foster / Prospective Adopters
+S12000034,2011,Ratio,"Per 1,000 Children",1.74,Other Community Placement
+S12000034,2009,Ratio,"Per 1,000 Children",1.94,Other Community Placement
+S12000034,2013,Ratio,"Per 1,000 Children",3.0,Foster / Prospective Adopters
+S12000034,2009,Ratio,"Per 1,000 Children",2.39,At Home
+S12000034,2016,Ratio,"Per 1,000 Children",7.48,All
+S12000034,2012,Ratio,"Per 1,000 Children",2.65,At Home
+S12000034,2009,Ratio,"Per 1,000 Children",2.87,Foster / Prospective Adopters
+S12000034,2010,Ratio,"Per 1,000 Children",3.38,At Home
+S12000034,2011,Ratio,"Per 1,000 Children",3.22,At Home
+S12000034,2013,Ratio,"Per 1,000 Children",1.53,Other Community Placement
+S12000030,2016,Ratio,"Per 1,000 Children",12.1,All
+S12000030,2009,Ratio,"Per 1,000 Children",1.59,Residential Care
+S12000030,2009,Ratio,"Per 1,000 Children",3.41,Foster / Prospective Adopters
+S12000030,2015,Ratio,"Per 1,000 Children",12.1,All
+S12000030,2011,Ratio,"Per 1,000 Children",2.37,Other Community Placement
+S12000030,2012,Ratio,"Per 1,000 Children",1.7,Residential Care
+S12000030,2011,Ratio,"Per 1,000 Children",6.22,At Home
+S12000030,2014,Ratio,"Per 1,000 Children",3.52,Other Community Placement
+S12000030,2015,Ratio,"Per 1,000 Children",1.85,Residential Care
+S12000030,2012,Ratio,"Per 1,000 Children",3.94,Foster / Prospective Adopters
+S12000030,2010,Ratio,"Per 1,000 Children",5.48,At Home
+S12000030,2013,Ratio,"Per 1,000 Children",4.21,Other Community Placement
+S12000030,2010,Ratio,"Per 1,000 Children",3.51,Foster / Prospective Adopters
+S12000030,2015,Ratio,"Per 1,000 Children",2.97,Other Community Placement
+S12000030,2013,Ratio,"Per 1,000 Children",1.72,Residential Care
+S12000030,2011,Ratio,"Per 1,000 Children",1.71,Residential Care
+S12000030,2014,Ratio,"Per 1,000 Children",4.07,Foster / Prospective Adopters
+S12000030,2011,Ratio,"Per 1,000 Children",13.86,All
+S12000030,2017,Ratio,"Per 1,000 Children",13.78,All
+S12000030,2012,Ratio,"Per 1,000 Children",3.18,Other Community Placement
+S12000030,2011,Ratio,"Per 1,000 Children",3.58,Foster / Prospective Adopters
+S12000030,2015,Ratio,"Per 1,000 Children",3.59,At Home
+S12000030,2010,Ratio,"Per 1,000 Children",1.53,Residential Care
+S12000030,2012,Ratio,"Per 1,000 Children",13.75,All
+S12000030,2009,Ratio,"Per 1,000 Children",1.76,Other Community Placement
+S12000030,2010,Ratio,"Per 1,000 Children",1.43,Other Community Placement
+S12000030,2013,Ratio,"Per 1,000 Children",13.64,All
+S12000033,2012,Ratio,"Per 1,000 Children",3.45,Other Community Placement
+S12000033,2013,Ratio,"Per 1,000 Children",3.36,Other Community Placement
+S12000033,2014,Ratio,"Per 1,000 Children",6.88,Foster / Prospective Adopters
+S12000033,2011,Ratio,"Per 1,000 Children",4.1,Other Community Placement
+S12000033,2012,Ratio,"Per 1,000 Children",16.32,All
+S12000033,2015,Ratio,"Per 1,000 Children",14.53,All
+S12000033,2014,Ratio,"Per 1,000 Children",15.38,All
+S12000033,2009,Ratio,"Per 1,000 Children",5.82,At Home
+S12000033,2010,Ratio,"Per 1,000 Children",6.48,At Home
+S12000033,2014,Ratio,"Per 1,000 Children",3.84,At Home
+S12000033,2010,Ratio,"Per 1,000 Children",6.48,Foster / Prospective Adopters
+S12000033,2011,Ratio,"Per 1,000 Children",5.63,At Home
+S12000033,2009,Ratio,"Per 1,000 Children",3.84,Other Community Placement
+S12000033,2012,Ratio,"Per 1,000 Children",4.45,At Home
+S12000033,2013,Ratio,"Per 1,000 Children",16.3,All
+S12000030,2012,Ratio,"Per 1,000 Children",4.93,At Home
+S12000033,2009,Ratio,"Per 1,000 Children",18.55,All
+S12000033,2011,Ratio,"Per 1,000 Children",6.29,Foster / Prospective Adopters
+S12000030,2013,Ratio,"Per 1,000 Children",3.88,At Home
+S12000030,2009,Ratio,"Per 1,000 Children",5.22,At Home
+S12000030,2015,Ratio,"Per 1,000 Children",3.7,Foster / Prospective Adopters
+S12000033,2015,Ratio,"Per 1,000 Children",6.91,Foster / Prospective Adopters
+S12000033,2013,Ratio,"Per 1,000 Children",4.55,At Home
+S12000033,2010,Ratio,"Per 1,000 Children",18.64,All
+S12000033,2010,Ratio,"Per 1,000 Children",3.92,Other Community Placement
+S12000033,2015,Ratio,"Per 1,000 Children",2.73,Other Community Placement
+S12000033,2015,Ratio,"Per 1,000 Children",3.31,At Home
+S12000020,2009,Ratio,"Per 1,000 Children",1.49,Residential Care
+S12000020,2015,Ratio,"Per 1,000 Children",1.96,Other Community Placement
+S12000020,2009,Ratio,"Per 1,000 Children",10.72,All
+S12000020,2013,Ratio,"Per 1,000 Children",4.29,Foster / Prospective Adopters
+S12000020,2012,Ratio,"Per 1,000 Children",1.72,Residential Care
+S12000020,2011,Ratio,"Per 1,000 Children",1.69,Other Community Placement
+S12000020,2018,Ratio,"Per 1,000 Children",12.12,All
+S12000020,2009,Ratio,"Per 1,000 Children",2.83,At Home
+S12000020,2011,Ratio,"Per 1,000 Children",4.21,Foster / Prospective Adopters
+S12000020,2012,Ratio,"Per 1,000 Children",11.42,All
+S12000020,2013,Ratio,"Per 1,000 Children",2.09,Other Community Placement
+S12000020,2010,Ratio,"Per 1,000 Children",9.89,All
+S12000020,2013,Ratio,"Per 1,000 Children",11.55,All
+S12000020,2010,Ratio,"Per 1,000 Children",3.09,At Home
+S12000020,2010,Ratio,"Per 1,000 Children",1.24,Residential Care
+S12000020,2014,Ratio,"Per 1,000 Children",1.52,Residential Care
+S12000020,2013,Ratio,"Per 1,000 Children",1.72,Residential Care
+S12000020,2015,Ratio,"Per 1,000 Children",1.54,Residential Care
+S12000020,2017,Ratio,"Per 1,000 Children",11.41,All
+S12000019,2010,Ratio,"Per 1,000 Children",4.77,Other Community Placement
+S12000020,2012,Ratio,"Per 1,000 Children",2.09,Other Community Placement
+S12000020,2014,Ratio,"Per 1,000 Children",11.16,All
+S12000020,2016,Ratio,"Per 1,000 Children",11.28,All
+S12000020,2009,Ratio,"Per 1,000 Children",2.83,Other Community Placement
+S12000020,2014,Ratio,"Per 1,000 Children",2.04,Other Community Placement
+S12000020,2015,Ratio,"Per 1,000 Children",11.07,All
+S12000020,2011,Ratio,"Per 1,000 Children",1.44,Residential Care
+S12000020,2010,Ratio,"Per 1,000 Children",2.06,Other Community Placement
+S12000021,2013,Ratio,"Per 1,000 Children",5.01,Foster / Prospective Adopters
+S12000021,2009,Ratio,"Per 1,000 Children",17.52,All
+S12000021,2013,Ratio,"Per 1,000 Children",2.39,Residential Care
+S12000021,2014,Ratio,"Per 1,000 Children",8.14,At Home
+S12000021,2013,Ratio,"Per 1,000 Children",21.62,All
+S12000021,2014,Ratio,"Per 1,000 Children",6.39,Other Community Placement
+S12000021,2010,Ratio,"Per 1,000 Children",18.7,All
+S12000021,2015,Ratio,"Per 1,000 Children",24.22,All
+S12000021,2009,Ratio,"Per 1,000 Children",3.57,Foster / Prospective Adopters
+S12000021,2010,Ratio,"Per 1,000 Children",4.21,Foster / Prospective Adopters
+S12000021,2017,Ratio,"Per 1,000 Children",22.36,All
+S12000021,2015,Ratio,"Per 1,000 Children",2.01,Residential Care
+S12000021,2012,Ratio,"Per 1,000 Children",4.22,Foster / Prospective Adopters
+S12000021,2011,Ratio,"Per 1,000 Children",7.41,At Home
+S12000020,2014,Ratio,"Per 1,000 Children",2.41,At Home
+S12000020,2012,Ratio,"Per 1,000 Children",2.87,At Home
+S12000020,2010,Ratio,"Per 1,000 Children",3.5,Foster / Prospective Adopters
+S12000020,2011,Ratio,"Per 1,000 Children",3.29,At Home
+S12000020,2012,Ratio,"Per 1,000 Children",4.75,Foster / Prospective Adopters
+S12000020,2011,Ratio,"Per 1,000 Children",10.63,All
+S12000020,2014,Ratio,"Per 1,000 Children",5.19,Foster / Prospective Adopters
+S12000021,2015,Ratio,"Per 1,000 Children",6.67,Other Community Placement
+S12000020,2013,Ratio,"Per 1,000 Children",3.45,At Home
+S12000021,2012,Ratio,"Per 1,000 Children",7.57,At Home
+S12000020,2015,Ratio,"Per 1,000 Children",5.03,Foster / Prospective Adopters
+S12000020,2009,Ratio,"Per 1,000 Children",3.55,Foster / Prospective Adopters
+S12000020,2015,Ratio,"Per 1,000 Children",2.54,At Home
+S12000019,2010,Ratio,"Per 1,000 Children",1.59,Residential Care
+S12000018,2012,Ratio,"Per 1,000 Children",1.88,Residential Care
+S12000019,2014,Ratio,"Per 1,000 Children",5.65,Foster / Prospective Adopters
+S12000019,2015,Ratio,"Per 1,000 Children",5.51,Foster / Prospective Adopters
+S12000018,2014,Ratio,"Per 1,000 Children",3.74,Foster / Prospective Adopters
+S12000018,2009,Ratio,"Per 1,000 Children",4.02,Foster / Prospective Adopters
+S12000018,2012,Ratio,"Per 1,000 Children",19.42,All
+S12000019,2012,Ratio,"Per 1,000 Children",1.95,Residential Care
+S12000019,2015,Ratio,"Per 1,000 Children",1.71,Residential Care
+S12000019,2014,Ratio,"Per 1,000 Children",16.79,All
+S12000019,2013,Ratio,"Per 1,000 Children",3.55,Other Community Placement
+S12000019,2012,Ratio,"Per 1,000 Children",4.07,Other Community Placement
+S12000019,2009,Ratio,"Per 1,000 Children",2.16,Residential Care
+S12000019,2014,Ratio,"Per 1,000 Children",1.36,Residential Care
+S12000018,2011,Ratio,"Per 1,000 Children",18.2,All
+S12000018,2015,Ratio,"Per 1,000 Children",3.46,Other Community Placement
+S12000018,2009,Ratio,"Per 1,000 Children",3.34,Other Community Placement
+S12000018,2010,Ratio,"Per 1,000 Children",2.33,Residential Care
+S12000018,2014,Ratio,"Per 1,000 Children",6.6,At Home
+S12000018,2015,Ratio,"Per 1,000 Children",14.16,All
+S12000018,2010,Ratio,"Per 1,000 Children",3.34,Foster / Prospective Adopters
+S12000018,2012,Ratio,"Per 1,000 Children",4.09,Other Community Placement
+S12000018,2010,Ratio,"Per 1,000 Children",18.46,All
+S12000018,2011,Ratio,"Per 1,000 Children",3.51,Other Community Placement
+S12000018,2013,Ratio,"Per 1,000 Children",3.94,Foster / Prospective Adopters
+S12000018,2009,Ratio,"Per 1,000 Children",1.98,Residential Care
+S12000018,2017,Ratio,"Per 1,000 Children",14.89,All
+S12000018,2009,Ratio,"Per 1,000 Children",19.66,All
+S12000019,2015,Ratio,"Per 1,000 Children",2.25,At Home
+S12000019,2013,Ratio,"Per 1,000 Children",6.09,At Home
+S12000019,2011,Ratio,"Per 1,000 Children",16.99,All
+S12000019,2011,Ratio,"Per 1,000 Children",5.12,At Home
+S12000019,2010,Ratio,"Per 1,000 Children",5.51,Foster / Prospective Adopters
+S12000019,2018,Ratio,"Per 1,000 Children",11.95,All
+S12000019,2015,Ratio,"Per 1,000 Children",13.65,All
+S12000019,2013,Ratio,"Per 1,000 Children",1.44,Residential Care
+S12000019,2010,Ratio,"Per 1,000 Children",6.02,At Home
+S12000019,2012,Ratio,"Per 1,000 Children",3.62,At Home
+S12000019,2011,Ratio,"Per 1,000 Children",6.13,Foster / Prospective Adopters
+S12000019,2012,Ratio,"Per 1,000 Children",5.74,Foster / Prospective Adopters
+S12000019,2017,Ratio,"Per 1,000 Children",13.66,All
+S12000019,2009,Ratio,"Per 1,000 Children",6.02,At Home
+S12000019,2009,Ratio,"Per 1,000 Children",5.17,Foster / Prospective Adopters
+S12000019,2012,Ratio,"Per 1,000 Children",15.39,All
+S12000019,2014,Ratio,"Per 1,000 Children",4.35,Other Community Placement
+S12000019,2015,Ratio,"Per 1,000 Children",4.18,Other Community Placement
+S12000019,2013,Ratio,"Per 1,000 Children",16.45,All
+S12000019,2013,Ratio,"Per 1,000 Children",5.37,Foster / Prospective Adopters
+S12000019,2011,Ratio,"Per 1,000 Children",3.77,Other Community Placement
+S12000019,2011,Ratio,"Per 1,000 Children",1.97,Residential Care
+S12000019,2016,Ratio,"Per 1,000 Children",13.39,All
+S12000019,2009,Ratio,"Per 1,000 Children",6.7,Other Community Placement
+S12000019,2010,Ratio,"Per 1,000 Children",17.9,All
+S12000019,2014,Ratio,"Per 1,000 Children",5.43,At Home
+S12000019,2009,Ratio,"Per 1,000 Children",20.04,All
+S12000026,2014,Ratio,"Per 1,000 Children",4.61,Foster / Prospective Adopters
+S12000026,2016,Ratio,"Per 1,000 Children",10.15,All
+S12000026,2009,Ratio,"Per 1,000 Children",8.55,All
+S12000026,2010,Ratio,"Per 1,000 Children",4.2,Foster / Prospective Adopters
+S12000026,2015,Ratio,"Per 1,000 Children",1.12,At Home
+S12000026,2011,Ratio,"Per 1,000 Children",4.91,Foster / Prospective Adopters
+S12000026,2012,Ratio,"Per 1,000 Children",1.74,Other Community Placement
+S12000026,2014,Ratio,"Per 1,000 Children",8.26,All
+S12000026,2013,Ratio,"Per 1,000 Children",1.7,At Home
+S12000026,2013,Ratio,"Per 1,000 Children",1.52,Other Community Placement
+S12000026,2014,Ratio,"Per 1,000 Children",1.29,Residential Care
+S12000026,2010,Ratio,"Per 1,000 Children",2.77,At Home
+S12000026,2012,Ratio,"Per 1,000 Children",0.82,Residential Care
+S12000026,2018,Ratio,"Per 1,000 Children",9.56,All
+S12000023,2013,Ratio,"Per 1,000 Children",0.74,Other Community Placement
+S12000023,2014,Ratio,"Per 1,000 Children",9.71,All
+S12000026,2011,Ratio,"Per 1,000 Children",1.82,Other Community Placement
+S12000023,2011,Ratio,"Per 1,000 Children",2.16,Foster / Prospective Adopters
+S12000023,2014,Ratio,"Per 1,000 Children",2.24,Foster / Prospective Adopters
+S12000023,2012,Ratio,"Per 1,000 Children",1.45,Other Community Placement
+S12000023,2011,Ratio,"Per 1,000 Children",0.48,Other Community Placement
+S12000026,2009,Ratio,"Per 1,000 Children",1.11,Other Community Placement
+S12000026,2009,Ratio,"Per 1,000 Children",2.7,At Home
+S12000026,2010,Ratio,"Per 1,000 Children",1.74,Other Community Placement
+S12000026,2011,Ratio,"Per 1,000 Children",0.73,Residential Care
+S12000026,2015,Ratio,"Per 1,000 Children",4.28,Foster / Prospective Adopters
+S12000026,2012,Ratio,"Per 1,000 Children",8.89,All
+S12000026,2009,Ratio,"Per 1,000 Children",3.94,Foster / Prospective Adopters
+S12000027,2009,Ratio,"Per 1,000 Children",2.74,At Home
+S12000027,2010,Ratio,"Per 1,000 Children",1.76,Foster / Prospective Adopters
+S12000027,2011,Ratio,"Per 1,000 Children",0.78,Residential Care
+S12000027,2010,Ratio,"Per 1,000 Children",2.54,At Home
+S12000026,2011,Ratio,"Per 1,000 Children",9.45,All
+S12000026,2010,Ratio,"Per 1,000 Children",9.65,All
+S12000026,2012,Ratio,"Per 1,000 Children",4.76,Foster / Prospective Adopters
+S12000027,2017,Ratio,"Per 1,000 Children",6.67,All
+S12000027,2009,Ratio,"Per 1,000 Children",1.57,Other Community Placement
+S12000027,2015,Ratio,"Per 1,000 Children",0.83,Residential Care
+S12000027,2011,Ratio,"Per 1,000 Children",5.49,All
+S12000027,2011,Ratio,"Per 1,000 Children",1.96,Foster / Prospective Adopters
+S12000027,2016,Ratio,"Per 1,000 Children",6.01,All
+S12000027,2018,Ratio,"Per 1,000 Children",6.18,All
+S12000026,2012,Ratio,"Per 1,000 Children",1.56,At Home
+S12000026,2013,Ratio,"Per 1,000 Children",8.47,All
+S12000026,2015,Ratio,"Per 1,000 Children",2.37,Other Community Placement
+S12000026,2009,Ratio,"Per 1,000 Children",0.8,Residential Care
+S12000026,2017,Ratio,"Per 1,000 Children",10.6,All
+S12000026,2014,Ratio,"Per 1,000 Children",1.62,Other Community Placement
+S12000026,2011,Ratio,"Per 1,000 Children",2.0,At Home
+S12000026,2013,Ratio,"Per 1,000 Children",4.28,Foster / Prospective Adopters
+S12000026,2015,Ratio,"Per 1,000 Children",1.58,Residential Care
+S12000026,2010,Ratio,"Per 1,000 Children",0.94,Residential Care
+S12000026,2015,Ratio,"Per 1,000 Children",9.35,All
+S12000026,2014,Ratio,"Per 1,000 Children",0.74,At Home
+S12000026,2013,Ratio,"Per 1,000 Children",0.97,Residential Care
+S12000021,2018,Ratio,"Per 1,000 Children",21.92,All
+S12000021,2011,Ratio,"Per 1,000 Children",4.59,Foster / Prospective Adopters
+S12000021,2012,Ratio,"Per 1,000 Children",20.98,All
+S12000021,2011,Ratio,"Per 1,000 Children",2.03,Residential Care
+S12000021,2011,Ratio,"Per 1,000 Children",20.76,All
+S12000021,2009,Ratio,"Per 1,000 Children",7.62,At Home
+S12000021,2010,Ratio,"Per 1,000 Children",5.83,Other Community Placement
+S12000023,2011,Ratio,"Per 1,000 Children",4.32,All
+S12000023,2015,Ratio,"Per 1,000 Children",2.02,At Home
+S12000023,2010,Ratio,"Per 1,000 Children",3.56,At Home
+S12000023,2018,Ratio,"Per 1,000 Children",7.77,All
+S12000021,2009,Ratio,"Per 1,000 Children",4.23,Other Community Placement
+S12000021,2014,Ratio,"Per 1,000 Children",6.01,Foster / Prospective Adopters
+S12000023,2013,Ratio,"Per 1,000 Children",6.63,All
+S12000021,2014,Ratio,"Per 1,000 Children",1.9,Residential Care
+S12000021,2012,Ratio,"Per 1,000 Children",2.2,Residential Care
+S12000021,2016,Ratio,"Per 1,000 Children",22.86,All
+S12000021,2011,Ratio,"Per 1,000 Children",6.73,Other Community Placement
+S12000021,2013,Ratio,"Per 1,000 Children",6.26,Other Community Placement
+S12000021,2015,Ratio,"Per 1,000 Children",8.72,At Home
+S12000021,2014,Ratio,"Per 1,000 Children",22.45,All
+S12000021,2013,Ratio,"Per 1,000 Children",7.96,At Home
+S12000021,2010,Ratio,"Per 1,000 Children",6.43,At Home
+S12000021,2015,Ratio,"Per 1,000 Children",6.82,Foster / Prospective Adopters
+S12000021,2012,Ratio,"Per 1,000 Children",6.99,Other Community Placement
+S12000021,2009,Ratio,"Per 1,000 Children",2.1,Residential Care
+S12000021,2010,Ratio,"Per 1,000 Children",2.23,Residential Care
+S12000023,2009,Ratio,"Per 1,000 Children",0.71,Foster / Prospective Adopters
+S12000023,2012,Ratio,"Per 1,000 Children",1.45,Residential Care
+S12000023,2012,Ratio,"Per 1,000 Children",2.18,At Home
+S12000023,2012,Ratio,"Per 1,000 Children",1.21,Foster / Prospective Adopters
+S12000023,2014,Ratio,"Per 1,000 Children",2.49,At Home
+S12000023,2010,Ratio,"Per 1,000 Children",3.33,Foster / Prospective Adopters
+S12000023,2011,Ratio,"Per 1,000 Children",0.72,At Home
+S12000023,2010,Ratio,"Per 1,000 Children",1.19,Residential Care
+S12000023,2015,Ratio,"Per 1,000 Children",3.28,Residential Care
+S12000023,2014,Ratio,"Per 1,000 Children",3.24,Residential Care
+S12000023,2013,Ratio,"Per 1,000 Children",1.96,Residential Care
+S12000023,2011,Ratio,"Per 1,000 Children",0.96,Residential Care
+S12000023,2009,Ratio,"Per 1,000 Children",0.95,Residential Care
+S12000023,2017,Ratio,"Per 1,000 Children",9.54,All
+S12000023,2012,Ratio,"Per 1,000 Children",6.3,All
+S12000023,2015,Ratio,"Per 1,000 Children",1.01,Other Community Placement
+S12000023,2013,Ratio,"Per 1,000 Children",1.72,Foster / Prospective Adopters
+S12000023,2015,Ratio,"Per 1,000 Children",8.57,All
+S12000023,2010,Ratio,"Per 1,000 Children",8.56,All
+S12000023,2009,Ratio,"Per 1,000 Children",7.38,All
+S12000023,2015,Ratio,"Per 1,000 Children",2.27,Foster / Prospective Adopters
+S12000023,2013,Ratio,"Per 1,000 Children",2.21,At Home
+S12000023,2016,Ratio,"Per 1,000 Children",7.06,All
+S12000023,2009,Ratio,"Per 1,000 Children",4.76,At Home
+S12000023,2009,Ratio,"Per 1,000 Children",0.95,Other Community Placement
+S12000023,2014,Ratio,"Per 1,000 Children",1.74,Other Community Placement
+S12000023,2010,Ratio,"Per 1,000 Children",0.48,Other Community Placement
